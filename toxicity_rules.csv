@@ -1,0 +1,6 @@
+waste_category,ph_min,ph_max,contamination_risk,toxicity_level
+Liquid,Any,4,Any,High
+Liquid,10,Any,Any,High
+Any,Any,Any,High,High
+Any,Any,Any,Medium,Medium
+Any,Any,Any,Low,Low

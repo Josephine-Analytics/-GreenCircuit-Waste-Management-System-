@@ -1,0 +1,17 @@
+subcategory_id,waste_type_id,name
+1,1,Food Scraps
+2,1,Agricultural Residue
+3,1,Market Waste
+4,1,Livestock Manure
+5,2,PET Bottles
+6,2,LDPE 'Sachet' Water Bags
+7,2,Scrap Metal
+8,2,Textiles/Used Clothing
+9,3,Used Cooking Oil
+10,3,Greywater
+11,3,Industrial Effluent
+12,3,Septage/Sewage
+13,4,E-waste
+14,4,Textiles
+15,4,Construction debris
+16,4,Miscellaneous

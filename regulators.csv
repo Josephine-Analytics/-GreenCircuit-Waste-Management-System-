@@ -1,0 +1,4 @@
+regulator_id,agency_name,city,country,compliance_emission,audit_frequency,audit_frequency_days
+REG-001,NESREA,Abuja,Nigeria,0.75,2.35,1095
+REG-002,NEMA,Nairobi,Kenya,0.8,1.6,365
+REG-003,LASEPA,Lagos,Nigeria,0.85,1.98,365

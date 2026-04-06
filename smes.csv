@@ -1,0 +1,501 @@
+sme_id,business_name,business_type,country,city,gps_lat,gps_lng,avg_daily_waste_kg,waste_categories,specific_waste_items,urgency_level,registration_date
+1,"Bell, Campbell and Ryan",Market,Kenya,Nakuru,-0.266045,36.070206,85.19,"{Organic,Liquid}","{""Food scraps"",Textiles,Wastewater}",High,2024-11-23
+2,"Carter, Armstrong and Farley",Manufacturer,Kenya,Kisumu,-0.09651,34.786574,88.29,"{Others,Liquid}","{""PET bottles"",""Food scraps"",Wastewater}",Low,2025-04-20
+3,"Ochoa, Taylor and Brady",Market,Nigeria,Lagos,6.571339,3.402787,56.81,"{Others,Solid}","{""Construction debris"",Textiles,""Food scraps""}",Medium,2025-01-30
+4,Riddle Ltd,Retail,Nigeria,Ibadan,7.426249,3.98275,73.17,"{Liquid,Others}","{""PET bottles"",""Construction debris"",""Food scraps""}",Low,2024-06-23
+5,"Cline, Wright and Dawson",Retail,Nigeria,Lagos,6.504514,3.396512,47.51,"{Solid,Others}","{""Food scraps"",E-waste,""PET bottles""}",Low,2025-12-20
+6,Juarez Ltd,Retail,Kenya,Mombasa,-4.018152,39.684181,18.05,"{Organic,Others}","{Wastewater,E-waste,""Construction debris""}",Low,2025-01-16
+7,Thomas-Chen,Manufacturer,Nigeria,Ibadan,7.422712,3.9641,55.91,"{Others,Organic}","{""Construction debris"",Wastewater,""PET bottles""}",High,2025-07-17
+8,Brooks-Jones,Retail,Kenya,Kisumu,-0.104001,34.7897,76.24,"{Others,Organic}","{""PET bottles"",Wastewater,""Food scraps""}",Medium,2025-11-24
+9,Powell Ltd,Restaurant,Kenya,Nairobi,-1.327475,36.841281,94.35,"{Liquid,Organic}","{Wastewater,E-waste,""Food scraps""}",Medium,2024-10-19
+10,"Mayer, Wood and Clements",Hotel,Kenya,Eldoret,0.52392,35.304492,98.19,"{Liquid,Others}","{""PET bottles"",Textiles,""Construction debris""}",Low,2024-11-26
+11,"Smith, Schroeder and Oconnor",Hotel,Nigeria,Lagos,6.528208,3.375266,18.42,"{Solid,Others}","{""Construction debris"",E-waste,""PET bottles""}",High,2025-10-05
+12,Reid-Terry,Restaurant,Nigeria,Abuja,9.101185,7.433487,67.6,"{Liquid,Solid}","{Textiles,""Food scraps"",Wastewater}",High,2026-01-06
+13,Flynn Group,Hotel,Nigeria,Abuja,9.075982,7.418988,35.12,"{Solid,Liquid}","{""PET bottles"",""Construction debris"",""Food scraps""}",Low,2024-09-02
+14,Summers-Simpson,Market,Nigeria,Ibadan,7.357472,3.978541,73.69,"{Organic,Liquid}","{E-waste,Wastewater,""Construction debris""}",High,2024-11-22
+15,Morgan-Lane,Hotel,Nigeria,Kano,12.02795,8.581062,46.0,"{Liquid,Others}","{""PET bottles"",Textiles,E-waste}",Low,2025-05-30
+16,Kramer-Shannon,Hotel,Kenya,Kisumu,-0.066475,34.775994,82.46,"{Others,Liquid}","{""PET bottles"",Textiles,""Construction debris""}",Medium,2025-10-30
+17,Williams Ltd,Market,Nigeria,Kano,12.041901,8.562933,65.91,"{Organic,Solid}","{""Construction debris"",Textiles,""Food scraps""}",High,2025-11-15
+18,Smith-Noble,Restaurant,Kenya,Nakuru,-0.258059,36.072736,85.75,"{Organic,Solid}","{E-waste,""PET bottles"",""Food scraps""}",Low,2024-07-17
+19,Bryant-Braun,Market,Nigeria,Port Harcourt,4.808936,7.014701,60.02,"{Organic,Others}","{""PET bottles"",E-waste,Textiles}",Medium,2025-02-12
+20,Forbes and Sons,Restaurant,Kenya,Nakuru,-0.275514,36.129141,70.37,"{Others,Liquid}","{E-waste,Wastewater,""Construction debris""}",Medium,2026-01-31
+21,"Turner, Baxter and Mcdowell",Manufacturer,Kenya,Nairobi,-1.324726,36.779428,67.73,"{Solid,Organic}","{Textiles,""Construction debris"",E-waste}",Medium,2024-05-28
+22,"Ward, Miller and Beck",Retail,Kenya,Eldoret,0.48847,35.268199,68.01,"{Liquid,Others}","{""PET bottles"",""Food scraps"",Wastewater}",Low,2025-08-03
+23,Williams Ltd,Manufacturer,Kenya,Nakuru,-0.271812,36.032,60.05,"{Others,Organic}","{Textiles,""Construction debris"",""Food scraps""}",Low,2024-11-09
+24,"Lyons, Young and Rios",Retail,Kenya,Mombasa,-4.007277,39.687728,10.48,"{Liquid,Organic}","{""Food scraps"",""PET bottles"",Textiles}",High,2025-09-14
+25,Smith Group,Restaurant,Kenya,Nairobi,-1.280139,36.852368,13.15,"{Liquid,Solid}","{Textiles,""PET bottles"",E-waste}",High,2024-05-16
+26,Wheeler PLC,Hotel,Kenya,Mombasa,-4.063417,39.712827,56.75,"{Others,Organic}","{Textiles,E-waste,Wastewater}",High,2025-08-27
+27,Smith-Dominguez,Restaurant,Nigeria,Port Harcourt,4.819375,7.020828,15.13,"{Solid,Organic}","{""PET bottles"",""Construction debris"",Wastewater}",Low,2025-12-11
+28,Mcneil Group,Manufacturer,Kenya,Eldoret,0.525567,35.278958,34.97,"{Others,Organic}","{Textiles,Wastewater,""Construction debris""}",Medium,2025-09-07
+29,Woods and Sons,Market,Kenya,Nakuru,-0.307492,36.124499,70.89,"{Solid,Organic}","{""Construction debris"",Wastewater,""PET bottles""}",High,2025-01-08
+30,Cross Inc,Retail,Nigeria,Port Harcourt,4.831286,7.081895,51.56,"{Solid,Others}","{E-waste,""Construction debris"",""Food scraps""}",High,2024-06-05
+31,Richardson-Evans,Retail,Kenya,Nairobi,-1.309376,36.82037,71.56,"{Organic,Solid}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2025-01-08
+32,May Ltd,Retail,Nigeria,Abuja,9.113365,7.371151,8.71,"{Solid,Others}","{""Food scraps"",""Construction debris"",""PET bottles""}",High,2024-07-05
+33,Moreno Inc,Manufacturer,Nigeria,Port Harcourt,4.847688,7.048806,46.09,"{Liquid,Others}","{Wastewater,Textiles,""Food scraps""}",Low,2025-07-04
+34,"Martin, Bell and Lewis",Manufacturer,Kenya,Kisumu,-0.047051,34.756912,41.07,"{Others,Solid}","{Textiles,""PET bottles"",Wastewater}",Low,2025-10-19
+35,Gillespie PLC,Hotel,Kenya,Mombasa,-4.07921,39.674962,34.06,"{Solid,Liquid}","{Textiles,E-waste,""Construction debris""}",Low,2025-09-01
+36,Heath-Miller,Retail,Nigeria,Kano,12.032026,8.592179,27.86,"{Solid,Others}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2024-06-03
+37,Goodwin PLC,Restaurant,Nigeria,Lagos,6.537847,3.336875,25.28,"{Solid,Liquid}","{""Food scraps"",""Construction debris"",Wastewater}",High,2025-10-05
+38,Bell-Jordan,Market,Nigeria,Lagos,6.570596,3.371604,44.63,"{Others,Solid}","{Textiles,""Construction debris"",""Food scraps""}",Medium,2025-11-21
+39,Wright Ltd,Retail,Kenya,Eldoret,0.489378,35.30292,10.66,"{Liquid,Organic}","{""Construction debris"",Textiles,""Food scraps""}",High,2024-05-21
+40,Tran PLC,Market,Nigeria,Abuja,9.093931,7.436767,45.69,"{Solid,Organic}","{Wastewater,""PET bottles"",""Construction debris""}",Low,2025-09-28
+41,"Mitchell, Pugh and Johnson",Market,Nigeria,Ibadan,7.365471,3.934368,16.15,"{Organic,Solid}","{Wastewater,E-waste,""Construction debris""}",Medium,2026-01-03
+42,"Liu, Harris and Lawson",Hotel,Kenya,Nairobi,-1.262586,36.824107,29.57,"{Organic,Solid}","{Textiles,E-waste,""Food scraps""}",Medium,2024-08-10
+43,"Myers, Lucas and Bowers",Hotel,Kenya,Eldoret,0.516395,35.249615,19.64,"{Solid,Others}","{Wastewater,""Food scraps"",Textiles}",Medium,2025-11-23
+44,Simpson Inc,Restaurant,Nigeria,Abuja,9.034953,7.400006,19.07,"{Others,Organic}","{""PET bottles"",Wastewater,""Construction debris""}",Medium,2024-09-20
+45,Little-Jones,Hotel,Nigeria,Kano,11.982107,8.58479,21.12,"{Organic,Solid}","{""Construction debris"",E-waste,""PET bottles""}",Low,2026-02-05
+46,Hatfield LLC,Restaurant,Nigeria,Ibadan,7.328143,3.985398,59.06,"{Solid,Others}","{""Food scraps"",""PET bottles"",E-waste}",Medium,2024-06-27
+47,Valencia-Carroll,Hotel,Nigeria,Lagos,6.49041,3.349105,42.51,"{Organic,Solid}","{E-waste,Textiles,""Construction debris""}",High,2024-12-25
+48,"Vega, Farmer and Best",Retail,Kenya,Kisumu,-0.066593,34.79599,45.99,"{Solid,Organic}","{""Food scraps"",""Construction debris"",""PET bottles""}",Low,2025-11-05
+49,Smith Inc,Hotel,Nigeria,Port Harcourt,4.766919,7.068288,11.75,"{Others,Liquid}","{""Construction debris"",""Food scraps"",E-waste}",Medium,2024-03-27
+50,Lewis-Livingston,Market,Nigeria,Kano,12.000772,8.618046,25.84,"{Solid,Organic}","{Wastewater,""Food scraps"",""Construction debris""}",High,2025-11-20
+51,Hunter-Fuller,Manufacturer,Kenya,Nakuru,-0.333258,36.100671,82.9,"{Solid,Organic}","{Textiles,""PET bottles"",""Construction debris""}",Low,2025-04-10
+52,Henderson-Morales,Retail,Kenya,Nakuru,-0.349262,36.129065,93.62,"{Organic,Liquid}","{""PET bottles"",""Food scraps"",Textiles}",Medium,2025-07-27
+53,"Medina, Hernandez and Miller",Hotel,Nigeria,Port Harcourt,4.796199,7.063175,24.66,"{Others,Solid}","{""Food scraps"",Textiles,E-waste}",High,2024-05-17
+54,"Mccall, Mccann and Moore",Retail,Kenya,Kisumu,-0.130697,34.754314,94.87,"{Solid,Others}","{""Food scraps"",""PET bottles"",""Construction debris""}",Low,2024-11-25
+55,Willis-Hines,Restaurant,Kenya,Kisumu,-0.120504,34.765162,91.76,"{Others,Organic}","{Wastewater,E-waste,""Construction debris""}",Medium,2025-08-03
+56,"Day, Collins and Kim",Market,Nigeria,Lagos,6.484068,3.330572,47.73,"{Liquid,Solid}","{""Construction debris"",Wastewater,Textiles}",Low,2026-01-03
+57,Brown Inc,Manufacturer,Nigeria,Abuja,9.084912,7.357297,15.66,"{Organic,Others}","{Textiles,""PET bottles"",""Construction debris""}",High,2026-03-05
+58,Wilson-Salazar,Retail,Nigeria,Lagos,6.481867,3.383864,32.69,"{Solid,Liquid}","{""Construction debris"",""PET bottles"",""Food scraps""}",Low,2024-04-28
+59,Wade-Barrett,Manufacturer,Kenya,Nakuru,-0.298049,36.055278,88.94,"{Liquid,Solid}","{E-waste,""Food scraps"",""Construction debris""}",Low,2024-07-31
+60,Smith and Sons,Market,Nigeria,Ibadan,7.379938,3.992284,64.94,"{Liquid,Others}","{""PET bottles"",Wastewater,""Food scraps""}",High,2025-09-12
+61,Martin LLC,Manufacturer,Kenya,Mombasa,-4.019405,39.657955,71.62,"{Organic,Others}","{E-waste,Textiles,""Construction debris""}",High,2025-04-27
+62,"Logan, Le and Jackson",Manufacturer,Nigeria,Ibadan,7.388284,3.917732,8.26,"{Solid,Liquid}","{""Construction debris"",""Food scraps"",E-waste}",High,2024-06-23
+63,"Norman, Adams and Tanner",Restaurant,Nigeria,Kano,12.037427,8.571592,27.33,"{Solid,Organic}","{""Food scraps"",Textiles,""PET bottles""}",Medium,2025-11-06
+64,Rogers Group,Restaurant,Kenya,Mombasa,-3.999272,39.645982,21.97,"{Solid,Organic}","{Textiles,""Food scraps"",""Construction debris""}",High,2024-10-14
+65,"Brown, Joseph and Ray",Manufacturer,Nigeria,Port Harcourt,4.862776,7.0323,76.14,"{Liquid,Others}","{""PET bottles"",E-waste,Wastewater}",Medium,2024-05-15
+66,Gibson-Ward,Market,Kenya,Nairobi,-1.253996,36.789151,96.87,"{Liquid,Organic}","{Textiles,""Construction debris"",""Food scraps""}",High,2025-04-09
+67,"Jackson, Moore and Ayala",Retail,Nigeria,Kano,12.039182,8.605387,47.66,"{Solid,Others}","{Wastewater,""PET bottles"",E-waste}",Low,2026-02-09
+68,"Craig, Wilson and Yang",Retail,Nigeria,Abuja,9.09946,7.391964,18.68,"{Organic,Solid}","{""PET bottles"",E-waste,""Construction debris""}",Low,2024-03-18
+69,Trevino Inc,Restaurant,Kenya,Eldoret,0.519412,35.292728,68.28,"{Liquid,Organic}","{""PET bottles"",E-waste,""Construction debris""}",Low,2024-09-22
+70,Ruiz Group,Retail,Kenya,Nairobi,-1.293749,36.812725,68.06,"{Organic,Liquid}","{Textiles,""PET bottles"",""Food scraps""}",High,2026-03-01
+71,White Inc,Restaurant,Kenya,Nakuru,-0.3147,36.041029,11.22,"{Solid,Organic}","{""Food scraps"",Wastewater,""PET bottles""}",High,2025-05-20
+72,"Yang, Barnes and Morris",Hotel,Kenya,Nairobi,-1.240627,36.777857,76.25,"{Organic,Others}","{""PET bottles"",E-waste,Textiles}",Low,2025-02-03
+73,"Flores, Mckenzie and Duncan",Hotel,Nigeria,Kano,12.00007,8.566337,47.13,"{Organic,Others}","{""Food scraps"",""Construction debris"",Wastewater}",Low,2024-06-17
+74,"Nunez, Williams and Walker",Retail,Nigeria,Abuja,9.0266,7.371005,24.32,"{Solid,Others}","{""Construction debris"",Wastewater,""PET bottles""}",High,2025-04-21
+75,Finley Inc,Hotel,Nigeria,Lagos,6.523561,3.428283,24.17,"{Liquid,Organic}","{Textiles,Wastewater,""Food scraps""}",Medium,2026-01-27
+76,Cline-Ayala,Manufacturer,Kenya,Nairobi,-1.275938,36.78503,57.74,"{Solid,Liquid}","{E-waste,""PET bottles"",Wastewater}",High,2024-11-13
+77,Miller-Bryant,Hotel,Nigeria,Kano,12.039719,8.569065,43.95,"{Liquid,Others}","{""Food scraps"",""Construction debris"",""PET bottles""}",High,2024-12-28
+78,Carter LLC,Retail,Kenya,Kisumu,-0.126924,34.762626,81.72,"{Organic,Others}","{Textiles,E-waste,Wastewater}",Low,2025-10-12
+79,"Sanchez, Richardson and Bonilla",Hotel,Kenya,Kisumu,-0.042225,34.736143,44.65,"{Others,Solid}","{E-waste,""Construction debris"",Wastewater}",Low,2025-11-07
+80,Oconnor PLC,Manufacturer,Kenya,Nakuru,-0.311233,36.079735,58.04,"{Solid,Others}","{""Food scraps"",Textiles,E-waste}",High,2025-10-28
+81,Hernandez Group,Restaurant,Kenya,Nairobi,-1.31287,36.76751,99.45,"{Liquid,Others}","{E-waste,""PET bottles"",""Food scraps""}",Low,2024-04-04
+82,Weaver Ltd,Hotel,Nigeria,Kano,12.037054,8.628633,66.97,"{Others,Organic}","{Textiles,E-waste,""PET bottles""}",Low,2025-12-29
+83,"Wiley, Tapia and Smith",Market,Kenya,Nairobi,-1.261689,36.778947,72.62,"{Others,Liquid}","{""Food scraps"",E-waste,Wastewater}",Low,2025-08-09
+84,Sweeney-Acosta,Restaurant,Kenya,Eldoret,0.477737,35.303524,88.34,"{Solid,Others}","{""PET bottles"",""Food scraps"",""Construction debris""}",Low,2024-06-05
+85,Moreno and Sons,Retail,Kenya,Eldoret,0.553467,35.261429,78.89,"{Solid,Liquid}","{Textiles,Wastewater,E-waste}",Medium,2025-02-06
+86,Woodward-Kaufman,Market,Nigeria,Ibadan,7.405702,3.966565,28.65,"{Organic,Liquid}","{""Food scraps"",Textiles,""PET bottles""}",High,2024-07-05
+87,"Ramirez, Williams and Hall",Retail,Kenya,Nairobi,-1.29675,36.809585,95.34,"{Liquid,Others}","{Textiles,Wastewater,""PET bottles""}",Medium,2026-01-02
+88,"Gutierrez, Huang and Ellis",Market,Kenya,Kisumu,-0.04439,34.770106,98.01,"{Solid,Others}","{Textiles,""Food scraps"",""PET bottles""}",Medium,2025-10-18
+89,Carpenter PLC,Retail,Kenya,Eldoret,0.530868,35.227501,72.32,"{Liquid,Others}","{""Construction debris"",E-waste,Textiles}",Low,2024-06-28
+90,"Wilkins, Jones and Bradley",Restaurant,Kenya,Kisumu,-0.077037,34.737429,19.76,"{Liquid,Others}","{Wastewater,""Food scraps"",""PET bottles""}",Medium,2025-02-17
+91,"Brandt, Young and Green",Hotel,Kenya,Eldoret,0.481006,35.240971,10.99,"{Solid,Liquid}","{""PET bottles"",""Food scraps"",""Construction debris""}",Medium,2024-11-16
+92,Haynes-Moss,Restaurant,Kenya,Eldoret,0.52684,35.276154,81.12,"{Organic,Solid}","{""Food scraps"",Wastewater,""Construction debris""}",Medium,2024-11-19
+93,Nelson-Jones,Hotel,Nigeria,Ibadan,7.377584,3.928487,36.13,"{Solid,Liquid}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2024-08-21
+94,Chan PLC,Retail,Kenya,Eldoret,0.551109,35.234799,62.85,"{Others,Liquid}","{""Food scraps"",Wastewater,""PET bottles""}",Low,2024-06-09
+95,Garcia Group,Market,Nigeria,Lagos,6.562899,3.338535,59.73,"{Solid,Liquid}","{""PET bottles"",Textiles,Wastewater}",Medium,2025-03-13
+96,Russell-Herrera,Restaurant,Kenya,Kisumu,-0.112618,34.780303,94.61,"{Others,Organic}","{""PET bottles"",Textiles,""Food scraps""}",Low,2025-11-05
+97,Hayes Group,Manufacturer,Nigeria,Lagos,6.554852,3.343468,70.67,"{Organic,Solid}","{""Food scraps"",E-waste,Wastewater}",Low,2024-10-08
+98,Davis Ltd,Restaurant,Nigeria,Abuja,9.033295,7.406225,33.44,"{Solid,Liquid}","{E-waste,Wastewater,""Construction debris""}",Medium,2024-11-08
+99,"Terry, Williams and Huff",Hotel,Nigeria,Abuja,9.120462,7.445742,43.15,"{Liquid,Solid}","{E-waste,Textiles,""PET bottles""}",Medium,2024-11-26
+100,Davis and Sons,Retail,Nigeria,Port Harcourt,4.850038,7.095048,34.91,"{Others,Solid}","{""Construction debris"",""Food scraps"",Textiles}",High,2024-12-18
+101,Palmer-Byrd,Market,Kenya,Eldoret,0.471154,35.305086,36.16,"{Others,Organic}","{""PET bottles"",E-waste,Textiles}",High,2024-10-05
+102,Johnson Group,Retail,Kenya,Kisumu,-0.095114,34.782204,91.01,"{Organic,Others}","{""PET bottles"",""Food scraps"",E-waste}",Medium,2026-01-09
+103,Hawkins-Pierce,Retail,Kenya,Nakuru,-0.320227,36.061753,99.68,"{Solid,Liquid}","{""Construction debris"",E-waste,""Food scraps""}",Medium,2024-05-29
+104,Garcia-Leon,Market,Nigeria,Lagos,6.528887,3.424059,18.48,"{Liquid,Others}","{""Food scraps"",Textiles,E-waste}",Low,2024-06-19
+105,Brown and Sons,Restaurant,Nigeria,Ibadan,7.425418,3.918382,23.23,"{Others,Solid}","{Wastewater,""PET bottles"",""Food scraps""}",Low,2024-06-26
+106,Colon LLC,Retail,Kenya,Kisumu,-0.101195,34.74779,74.1,"{Solid,Liquid}","{Wastewater,""PET bottles"",""Food scraps""}",Low,2025-09-01
+107,"Pace, Miller and Willis",Retail,Nigeria,Kano,12.048516,8.571646,22.3,"{Others,Solid}","{Textiles,""PET bottles"",E-waste}",Medium,2026-02-27
+108,Johnson Inc,Manufacturer,Nigeria,Lagos,6.53047,3.418584,22.3,"{Solid,Others}","{""Construction debris"",Wastewater,""Food scraps""}",Low,2024-08-17
+109,"Ramos, Anderson and Stein",Retail,Nigeria,Abuja,9.076424,7.380215,65.03,"{Liquid,Others}","{""Construction debris"",""Food scraps"",E-waste}",Low,2025-12-21
+110,Martinez-Dunlap,Retail,Nigeria,Port Harcourt,4.775299,7.021706,78.49,"{Solid,Liquid}","{E-waste,""PET bottles"",Wastewater}",Low,2024-04-25
+111,Glass Group,Hotel,Kenya,Eldoret,0.56587,35.256806,42.74,"{Liquid,Others}","{""Food scraps"",E-waste,Textiles}",Medium,2025-12-15
+112,"Foster, Johnson and Vega",Hotel,Nigeria,Kano,11.9874,8.596203,45.67,"{Organic,Others}","{E-waste,""Construction debris"",Wastewater}",Low,2024-07-29
+113,Lewis-Lopez,Retail,Kenya,Eldoret,0.513948,35.248283,69.36,"{Liquid,Others}","{Textiles,""Food scraps"",""Construction debris""}",Low,2024-10-20
+114,Stephenson-Johnson,Manufacturer,Kenya,Nairobi,-1.274763,36.808351,54.68,"{Organic,Liquid}","{E-waste,Textiles,""Food scraps""}",High,2025-07-10
+115,"Sanchez, Phillips and Jenkins",Restaurant,Nigeria,Ibadan,7.348749,3.974728,47.71,"{Solid,Others}","{""Food scraps"",Wastewater,E-waste}",Medium,2025-05-18
+116,Brown-Ramirez,Hotel,Nigeria,Lagos,6.568341,3.407426,44.54,"{Liquid,Solid}","{E-waste,""PET bottles"",""Food scraps""}",Medium,2024-07-01
+117,Gonzalez-Wilkerson,Manufacturer,Kenya,Nairobi,-1.333764,36.846274,85.67,"{Liquid,Solid}","{""PET bottles"",Textiles,E-waste}",Low,2025-04-29
+118,Mccoy PLC,Manufacturer,Nigeria,Abuja,9.088106,7.387906,11.71,"{Others,Organic}","{""Construction debris"",E-waste,""PET bottles""}",Medium,2025-11-24
+119,Mayo Ltd,Market,Nigeria,Port Harcourt,4.781398,7.022941,59.12,"{Organic,Liquid}","{Textiles,E-waste,Wastewater}",High,2024-12-20
+120,Stephens-Washington,Manufacturer,Kenya,Kisumu,-0.121326,34.727283,49.37,"{Solid,Organic}","{Textiles,""Construction debris"",""Food scraps""}",High,2026-02-23
+121,"Shaw, Price and White",Hotel,Nigeria,Lagos,6.548613,3.342261,40.67,"{Solid,Organic}","{""Construction debris"",""PET bottles"",Wastewater}",Low,2024-11-19
+122,"Robinson, Huang and Osborne",Market,Kenya,Nakuru,-0.27606,36.095951,34.75,"{Organic,Liquid}","{Textiles,""Food scraps"",""Construction debris""}",Medium,2024-05-01
+123,Moreno-Wang,Restaurant,Kenya,Nairobi,-1.322205,36.793422,26.26,"{Others,Solid}","{""PET bottles"",E-waste,""Food scraps""}",Medium,2024-09-13
+124,Garcia Ltd,Retail,Kenya,Nakuru,-0.345741,36.125947,16.87,"{Others,Solid}","{""Construction debris"",E-waste,""PET bottles""}",Low,2024-09-20
+125,Ferguson-Moody,Restaurant,Nigeria,Lagos,6.564743,3.395173,53.45,"{Organic,Solid}","{Wastewater,E-waste,""Food scraps""}",Low,2025-10-10
+126,Gallagher and Sons,Manufacturer,Nigeria,Lagos,6.493664,3.332162,9.66,"{Solid,Organic}","{Wastewater,""Food scraps"",""PET bottles""}",Low,2025-06-07
+127,Kelly-Combs,Hotel,Nigeria,Abuja,9.048455,7.421348,75.67,"{Liquid,Solid}","{""PET bottles"",""Food scraps"",Wastewater}",High,2026-01-02
+128,Thompson PLC,Retail,Nigeria,Ibadan,7.402081,3.94662,44.91,"{Solid,Others}","{""PET bottles"",""Construction debris"",Wastewater}",Medium,2024-11-19
+129,"Wolfe, Sloan and Johnson",Market,Kenya,Eldoret,0.549675,35.278538,24.91,"{Others,Solid}","{E-waste,""Construction debris"",Wastewater}",Medium,2025-09-12
+130,Meza-Elliott,Restaurant,Kenya,Eldoret,0.508665,35.239752,41.76,"{Others,Organic}","{""Food scraps"",Textiles,Wastewater}",High,2025-05-28
+131,Copeland Group,Manufacturer,Nigeria,Kano,12.012567,8.629681,76.43,"{Liquid,Solid}","{""Food scraps"",""Construction debris"",""PET bottles""}",Medium,2025-05-12
+132,Thompson-Johnson,Hotel,Nigeria,Abuja,9.062253,7.355838,55.3,"{Solid,Others}","{""Food scraps"",""Construction debris"",Wastewater}",High,2024-04-29
+133,Guzman Inc,Market,Kenya,Kisumu,-0.120325,34.774703,38.94,"{Organic,Solid}","{Wastewater,Textiles,""PET bottles""}",High,2025-04-29
+134,Smith-Hardin,Restaurant,Kenya,Nairobi,-1.280293,36.83885,95.16,"{Others,Liquid}","{E-waste,Wastewater,Textiles}",Low,2024-08-20
+135,Peterson and Sons,Retail,Kenya,Nairobi,-1.256116,36.817088,99.12,"{Organic,Others}","{E-waste,""PET bottles"",Wastewater}",High,2026-02-28
+136,Brown-Hernandez,Manufacturer,Nigeria,Abuja,9.08412,7.377078,54.34,"{Organic,Solid}","{Wastewater,""PET bottles"",E-waste}",Low,2025-09-15
+137,Schroeder PLC,Retail,Kenya,Kisumu,-0.077224,34.724901,18.56,"{Liquid,Solid}","{Wastewater,""Construction debris"",E-waste}",Low,2026-01-14
+138,Yu-Brooks,Retail,Nigeria,Ibadan,7.388794,3.936373,58.14,"{Others,Liquid}","{""Food scraps"",Wastewater,""Construction debris""}",Low,2025-08-13
+139,Willis-Rogers,Retail,Kenya,Nairobi,-1.253843,36.781096,99.42,"{Solid,Organic}","{""Food scraps"",""PET bottles"",Wastewater}",High,2024-11-22
+140,Daugherty Ltd,Hotel,Kenya,Nairobi,-1.31042,36.845717,19.97,"{Organic,Solid}","{Wastewater,Textiles,E-waste}",Medium,2025-02-19
+141,"Yu, Banks and Thompson",Market,Kenya,Mombasa,-4.035132,39.630196,38.74,"{Others,Liquid}","{E-waste,""Food scraps"",""PET bottles""}",High,2025-05-27
+142,"Preston, Austin and Kelly",Market,Nigeria,Ibadan,7.425197,3.929231,60.62,"{Organic,Solid}","{Wastewater,""Food scraps"",""Construction debris""}",High,2025-08-15
+143,"Olsen, Gray and Gross",Market,Kenya,Mombasa,-4.02398,39.62572,54.51,"{Organic,Liquid}","{""PET bottles"",E-waste,Textiles}",Low,2024-10-31
+144,Thompson Inc,Manufacturer,Nigeria,Lagos,6.508424,3.410606,62.84,"{Liquid,Solid}","{""Construction debris"",E-waste,""PET bottles""}",High,2025-09-13
+145,"Myers, Gamble and Sanford",Manufacturer,Kenya,Mombasa,-4.071599,39.65457,97.76,"{Solid,Others}","{""PET bottles"",""Food scraps"",Wastewater}",Medium,2024-04-11
+146,Guzman PLC,Retail,Kenya,Kisumu,-0.046553,34.77568,19.19,"{Organic,Liquid}","{""Food scraps"",""PET bottles"",""Construction debris""}",Medium,2024-09-04
+147,"Cunningham, Zuniga and Taylor",Hotel,Kenya,Kisumu,-0.138843,34.784145,50.74,"{Organic,Liquid}","{""Food scraps"",Wastewater,E-waste}",Low,2025-10-16
+148,Young LLC,Hotel,Kenya,Nakuru,-0.30288,36.080818,14.78,"{Liquid,Organic}","{""Food scraps"",E-waste,Textiles}",Low,2024-07-25
+149,"Mcclure, Davis and Fletcher",Retail,Nigeria,Abuja,9.066748,7.407979,46.13,"{Others,Organic}","{""Construction debris"",""Food scraps"",""PET bottles""}",Low,2025-07-26
+150,"Tanner, Griffin and Baker",Restaurant,Kenya,Nairobi,-1.331075,36.770792,33.96,"{Organic,Solid}","{""PET bottles"",Textiles,E-waste}",Medium,2024-09-26
+151,"Jones, Scott and Rodriguez",Retail,Nigeria,Lagos,6.496368,3.411613,57.8,"{Solid,Organic}","{""PET bottles"",Wastewater,Textiles}",High,2024-03-17
+152,Cruz Ltd,Retail,Nigeria,Lagos,6.483803,3.37953,58.43,"{Liquid,Others}","{""PET bottles"",""Construction debris"",Wastewater}",High,2025-02-05
+153,Wilkerson Group,Restaurant,Kenya,Mombasa,-4.074743,39.708193,22.77,"{Others,Solid}","{Wastewater,""Food scraps"",""PET bottles""}",Medium,2026-01-30
+154,Bell-Bennett,Retail,Kenya,Mombasa,-4.025557,39.703515,63.46,"{Organic,Solid}","{""PET bottles"",E-waste,""Food scraps""}",Low,2025-12-20
+155,Kramer-Lane,Manufacturer,Kenya,Eldoret,0.538365,35.248846,30.55,"{Solid,Organic}","{""Food scraps"",""Construction debris"",Wastewater}",High,2025-10-26
+156,"Perez, Hayes and Lloyd",Retail,Nigeria,Ibadan,7.376628,3.932118,47.29,"{Liquid,Solid}","{E-waste,""Food scraps"",Wastewater}",Medium,2024-04-11
+157,Smith-Green,Manufacturer,Nigeria,Port Harcourt,4.843007,7.08554,72.96,"{Others,Organic}","{Wastewater,Textiles,""Food scraps""}",Low,2024-06-06
+158,Peterson Group,Market,Nigeria,Abuja,9.092416,7.362737,43.84,"{Others,Solid}","{""PET bottles"",""Food scraps"",""Construction debris""}",Medium,2024-07-19
+159,"Jones, Mcmahon and Spence",Retail,Kenya,Kisumu,-0.053988,34.785836,90.93,"{Solid,Others}","{""Construction debris"",Wastewater,Textiles}",Medium,2024-12-04
+160,"Galloway, Barry and Bush",Hotel,Nigeria,Kano,11.983111,8.546066,45.45,"{Organic,Solid}","{E-waste,Textiles,Wastewater}",Medium,2025-02-15
+161,"Martin, Preston and Moore",Market,Kenya,Nairobi,-1.286496,36.835776,51.97,"{Liquid,Others}","{Textiles,""PET bottles"",Wastewater}",Medium,2024-06-03
+162,Harris-Lee,Hotel,Nigeria,Lagos,6.554358,3.330765,10.95,"{Organic,Others}","{E-waste,Wastewater,""Food scraps""}",Medium,2025-09-09
+163,"Bowen, Blair and Baker",Manufacturer,Nigeria,Lagos,6.479369,3.342978,71.27,"{Solid,Organic}","{""Construction debris"",Wastewater,""PET bottles""}",High,2024-10-21
+164,Young-Williams,Retail,Kenya,Nakuru,-0.294577,36.038097,29.7,"{Liquid,Organic}","{""Construction debris"",E-waste,Textiles}",Medium,2025-06-04
+165,"Larsen, Hernandez and Ward",Retail,Kenya,Kisumu,-0.049683,34.77766,25.6,"{Liquid,Others}","{""PET bottles"",""Construction debris"",Wastewater}",Low,2025-02-12
+166,Phillips Ltd,Retail,Nigeria,Port Harcourt,4.785506,7.030344,29.41,"{Solid,Others}","{E-waste,""Food scraps"",""PET bottles""}",High,2025-07-15
+167,"Castillo, Davis and Clark",Hotel,Nigeria,Kano,12.002561,8.610472,33.74,"{Others,Solid}","{E-waste,""Construction debris"",Textiles}",Low,2025-07-25
+168,Rowland-Wells,Market,Kenya,Nakuru,-0.344256,36.044084,91.62,"{Liquid,Organic}","{Textiles,""Construction debris"",Wastewater}",Low,2024-06-14
+169,Glover-Ruiz,Manufacturer,Nigeria,Abuja,9.066773,7.349169,66.14,"{Others,Organic}","{""Food scraps"",""Construction debris"",Wastewater}",High,2026-02-10
+170,"Baker, May and Hughes",Hotel,Kenya,Kisumu,-0.082268,34.80015,60.89,"{Organic,Others}","{""Construction debris"",Textiles,""Food scraps""}",High,2024-12-30
+171,Wood-Griffin,Market,Kenya,Eldoret,0.484775,35.293822,54.58,"{Solid,Others}","{""Construction debris"",Wastewater,""Food scraps""}",Medium,2024-10-07
+172,Marshall-Perez,Manufacturer,Kenya,Nairobi,-1.329675,36.782525,89.19,"{Organic,Others}","{""PET bottles"",""Food scraps"",E-waste}",Low,2024-10-11
+173,"Brown, Goodwin and Contreras",Market,Nigeria,Ibadan,7.333127,3.909221,37.13,"{Solid,Liquid}","{Wastewater,Textiles,E-waste}",High,2024-05-22
+174,"Cooper, Weaver and Arellano",Market,Kenya,Nakuru,-0.338474,36.032191,22.75,"{Solid,Liquid}","{""Construction debris"",Textiles,""PET bottles""}",Medium,2025-06-18
+175,Spencer Group,Hotel,Nigeria,Kano,11.981124,8.551958,50.39,"{Liquid,Solid}","{E-waste,""Food scraps"",""Construction debris""}",Medium,2025-12-12
+176,"Barnes, Nichols and Camacho",Restaurant,Nigeria,Abuja,9.029276,7.394282,48.62,"{Liquid,Organic}","{""Construction debris"",Textiles,E-waste}",Low,2025-03-20
+177,"Keith, Alvarez and Miller",Market,Nigeria,Abuja,9.07327,7.420881,27.94,"{Liquid,Others}","{Textiles,""PET bottles"",Wastewater}",High,2026-02-16
+178,"Johnson, Duncan and Black",Manufacturer,Nigeria,Port Harcourt,4.771831,7.065436,33.33,"{Liquid,Solid}","{""Construction debris"",""PET bottles"",Wastewater}",High,2025-06-03
+179,"Mcgrath, Hernandez and Avery",Retail,Nigeria,Ibadan,7.334383,3.980973,42.83,"{Solid,Liquid}","{""Construction debris"",Textiles,Wastewater}",Low,2025-02-28
+180,Rush and Sons,Retail,Nigeria,Port Harcourt,4.861073,7.034654,52.46,"{Organic,Others}","{""Food scraps"",""PET bottles"",Textiles}",Low,2024-08-28
+181,Martinez Group,Market,Kenya,Nakuru,-0.259676,36.077666,78.39,"{Organic,Others}","{""Construction debris"",E-waste,Textiles}",Low,2024-05-16
+182,"Graham, Osborn and Burton",Retail,Kenya,Eldoret,0.495408,35.223522,77.49,"{Liquid,Others}","{""Construction debris"",""Food scraps"",""PET bottles""}",Medium,2025-12-24
+183,"Scott, Bartlett and Sloan",Market,Kenya,Nakuru,-0.315336,36.128912,61.64,"{Solid,Others}","{E-waste,""Construction debris"",Wastewater}",Low,2024-05-08
+184,Hughes Group,Restaurant,Kenya,Mombasa,-4.050071,39.671059,81.1,"{Organic,Liquid}","{""Construction debris"",""Food scraps"",""PET bottles""}",Low,2025-05-19
+185,Gates-Stone,Restaurant,Kenya,Nairobi,-1.300433,36.808026,59.19,"{Liquid,Organic}","{""Construction debris"",Textiles,E-waste}",Low,2026-02-27
+186,Buchanan PLC,Manufacturer,Kenya,Eldoret,0.553118,35.269865,42.08,"{Solid,Organic}","{E-waste,""Construction debris"",Textiles}",Low,2025-06-16
+187,"Harrington, Rodriguez and Hernandez",Market,Kenya,Mombasa,-4.015238,39.648029,20.61,"{Organic,Liquid}","{Textiles,Wastewater,""Food scraps""}",Low,2025-05-31
+188,"Aguilar, Hanna and Garcia",Market,Nigeria,Kano,11.991222,8.577747,70.82,"{Liquid,Organic}","{Textiles,""Construction debris"",""PET bottles""}",High,2024-06-07
+189,"Chan, Floyd and Dillon",Manufacturer,Nigeria,Ibadan,7.389426,3.951634,72.21,"{Others,Solid}","{""Construction debris"",""Food scraps"",Textiles}",Medium,2026-01-29
+190,Humphrey-Baker,Market,Nigeria,Kano,11.97223,8.630759,12.28,"{Liquid,Others}","{""Food scraps"",""PET bottles"",E-waste}",Low,2025-08-07
+191,Armstrong-Kennedy,Manufacturer,Kenya,Kisumu,-0.043596,34.812947,63.83,"{Organic,Liquid}","{E-waste,""PET bottles"",Wastewater}",High,2024-07-28
+192,Powell-Montgomery,Retail,Kenya,Nairobi,-1.332829,36.817983,68.53,"{Others,Solid}","{""PET bottles"",""Food scraps"",Textiles}",Low,2025-08-27
+193,"Morales, Foster and Koch",Restaurant,Kenya,Eldoret,0.531174,35.257719,71.52,"{Others,Organic}","{E-waste,""Construction debris"",""PET bottles""}",Medium,2025-09-04
+194,Williams Group,Hotel,Nigeria,Port Harcourt,4.779331,7.043639,72.59,"{Liquid,Organic}","{Wastewater,E-waste,""Food scraps""}",Low,2026-03-02
+195,Prince-Smith,Manufacturer,Kenya,Nairobi,-1.277527,36.789936,77.27,"{Organic,Others}","{""Construction debris"",""PET bottles"",""Food scraps""}",Low,2025-12-11
+196,Collins-Cameron,Manufacturer,Kenya,Mombasa,-4.049621,39.646466,38.27,"{Solid,Others}","{""PET bottles"",Textiles,E-waste}",Medium,2026-01-12
+197,"Cohen, Compton and Perez",Hotel,Kenya,Nairobi,-1.328751,36.86106,28.53,"{Solid,Others}","{""Construction debris"",Wastewater,Textiles}",High,2024-11-05
+198,"Ramos, Petersen and Adams",Manufacturer,Nigeria,Abuja,9.079163,7.375328,58.24,"{Organic,Others}","{Wastewater,E-waste,Textiles}",Medium,2025-02-03
+199,"Brewer, Lopez and Lewis",Hotel,Kenya,Mombasa,-4.002272,39.702349,56.89,"{Solid,Organic}","{Wastewater,""PET bottles"",""Food scraps""}",Low,2025-12-16
+200,Figueroa-Malone,Hotel,Nigeria,Ibadan,7.422866,3.899169,68.22,"{Liquid,Others}","{E-waste,Wastewater,""Food scraps""}",Low,2026-01-19
+201,Nicholson-Robertson,Retail,Nigeria,Port Harcourt,4.803948,7.001729,35.55,"{Organic,Others}","{""PET bottles"",E-waste,""Construction debris""}",High,2024-07-18
+202,Collins PLC,Hotel,Nigeria,Port Harcourt,4.77078,7.030359,46.99,"{Organic,Liquid}","{Wastewater,""Construction debris"",""PET bottles""}",Low,2025-01-24
+203,Deleon PLC,Restaurant,Nigeria,Port Harcourt,4.808962,7.042599,60.5,"{Organic,Liquid}","{E-waste,Wastewater,""Construction debris""}",Medium,2026-01-28
+204,"Johnson, Lee and Whitaker",Market,Nigeria,Abuja,9.12251,7.395307,79.47,"{Solid,Organic}","{Wastewater,""Construction debris"",""Food scraps""}",Low,2025-12-27
+205,Wright Group,Hotel,Nigeria,Kano,12.009287,8.545817,27.75,"{Liquid,Others}","{Textiles,""Food scraps"",""Construction debris""}",Medium,2024-04-25
+206,Bush-Hill,Restaurant,Nigeria,Kano,12.036938,8.586337,9.24,"{Others,Organic}","{Wastewater,E-waste,""PET bottles""}",Medium,2025-12-16
+207,Wagner-Reid,Hotel,Kenya,Eldoret,0.564243,35.247425,64.93,"{Organic,Solid}","{""PET bottles"",Wastewater,Textiles}",Medium,2024-06-21
+208,"Johnson, Watson and Wheeler",Restaurant,Nigeria,Abuja,9.049221,7.366024,70.73,"{Solid,Organic}","{""Construction debris"",""Food scraps"",""PET bottles""}",High,2024-08-01
+209,Matthews-Bailey,Hotel,Nigeria,Port Harcourt,4.797287,7.055185,24.41,"{Liquid,Organic}","{""Construction debris"",Wastewater,""Food scraps""}",High,2024-07-22
+210,Curry-Barker,Restaurant,Kenya,Kisumu,-0.130786,34.76865,20.19,"{Solid,Organic}","{Wastewater,Textiles,""Construction debris""}",High,2024-10-24
+211,Hughes and Sons,Hotel,Nigeria,Lagos,6.538568,3.416791,18.3,"{Liquid,Solid}","{E-waste,Wastewater,""Construction debris""}",Medium,2026-01-09
+212,"Chan, Lewis and Walker",Manufacturer,Kenya,Mombasa,-4.056647,39.647293,23.51,"{Organic,Others}","{Textiles,""PET bottles"",Wastewater}",High,2024-09-07
+213,"Clark, Pearson and Palmer",Market,Nigeria,Abuja,9.064363,7.406843,55.31,"{Others,Liquid}","{""Food scraps"",""Construction debris"",""PET bottles""}",High,2026-01-17
+214,"Smith, Buck and Holland",Restaurant,Nigeria,Port Harcourt,4.838859,7.084604,46.0,"{Others,Liquid}","{Textiles,""Construction debris"",E-waste}",Medium,2025-06-26
+215,Walker PLC,Market,Nigeria,Abuja,9.11008,7.377881,25.57,"{Liquid,Organic}","{E-waste,Wastewater,""Food scraps""}",High,2025-12-02
+216,Marquez-Fletcher,Hotel,Kenya,Nakuru,-0.279819,36.118048,42.57,"{Organic,Solid}","{""Construction debris"",E-waste,""PET bottles""}",Medium,2024-10-16
+217,Woodard-York,Manufacturer,Nigeria,Abuja,9.083413,7.431252,17.02,"{Solid,Others}","{""Construction debris"",Textiles,""PET bottles""}",High,2025-03-08
+218,Robinson-Turner,Manufacturer,Nigeria,Kano,11.986336,8.553752,37.41,"{Solid,Liquid}","{E-waste,""PET bottles"",Textiles}",Medium,2025-04-25
+219,"Sanders, Garcia and Hunt",Retail,Kenya,Mombasa,-4.081398,39.644544,59.91,"{Organic,Others}","{""Food scraps"",E-waste,""Construction debris""}",High,2025-08-13
+220,Hoffman-Wheeler,Retail,Kenya,Nairobi,-1.323151,36.853911,92.68,"{Liquid,Organic}","{E-waste,Textiles,""PET bottles""}",High,2024-10-22
+221,Cohen-Olson,Manufacturer,Nigeria,Lagos,6.50806,3.411678,32.24,"{Organic,Liquid}","{""Food scraps"",""Construction debris"",Wastewater}",Medium,2024-12-03
+222,Davidson-Hensley,Market,Nigeria,Ibadan,7.401632,3.940609,62.55,"{Solid,Liquid}","{Textiles,""Construction debris"",""Food scraps""}",Low,2024-10-05
+223,"Dawson, Stafford and Evans",Hotel,Kenya,Eldoret,0.529665,35.287171,50.82,"{Others,Organic}","{Textiles,""Construction debris"",Wastewater}",Low,2024-07-11
+224,"Cannon, Yoder and Trujillo",Manufacturer,Kenya,Kisumu,-0.092373,34.722785,56.59,"{Others,Solid}","{Wastewater,E-waste,""Construction debris""}",Low,2025-11-30
+225,"Powell, Flores and Taylor",Market,Kenya,Nairobi,-1.25499,36.840686,99.03,"{Others,Liquid}","{Wastewater,Textiles,""Construction debris""}",Low,2024-04-05
+226,"Jimenez, Phillips and Meadows",Market,Nigeria,Kano,11.968738,8.57074,43.04,"{Solid,Others}","{Wastewater,Textiles,""Food scraps""}",Low,2025-01-25
+227,Doyle-Aguilar,Market,Nigeria,Abuja,9.036077,7.40379,44.63,"{Organic,Liquid}","{""Food scraps"",Textiles,""PET bottles""}",Low,2025-06-04
+228,Cooper Ltd,Retail,Nigeria,Lagos,6.511333,3.35739,76.25,"{Others,Liquid}","{""PET bottles"",E-waste,Wastewater}",Low,2024-09-05
+229,"Nichols, Glover and Knox",Market,Kenya,Nakuru,-0.264211,36.079351,17.82,"{Liquid,Others}","{""Construction debris"",""Food scraps"",Wastewater}",Low,2025-08-20
+230,Romero-Bruce,Manufacturer,Kenya,Nairobi,-1.303677,36.817929,34.85,"{Organic,Liquid}","{""Construction debris"",Wastewater,""Food scraps""}",Medium,2025-12-29
+231,"Walter, White and Davis",Restaurant,Kenya,Eldoret,0.502113,35.303923,69.5,"{Organic,Others}","{""PET bottles"",Textiles,E-waste}",Low,2024-06-24
+232,"Green, Stokes and Hines",Retail,Kenya,Kisumu,-0.09469,34.766407,26.84,"{Liquid,Organic}","{""PET bottles"",""Food scraps"",""Construction debris""}",Low,2024-08-06
+233,"Lam, Pena and Walker",Restaurant,Nigeria,Lagos,6.523448,3.390328,59.12,"{Others,Liquid}","{Wastewater,Textiles,E-waste}",High,2024-09-06
+234,"Savage, Fisher and Eaton",Hotel,Kenya,Kisumu,-0.093279,34.78365,26.21,"{Solid,Others}","{""Construction debris"",E-waste,Textiles}",High,2024-12-30
+235,Richards-Ford,Restaurant,Nigeria,Port Harcourt,4.801267,7.04794,14.95,"{Liquid,Solid}","{E-waste,Wastewater,""PET bottles""}",High,2024-06-16
+236,Brown-Walters,Hotel,Nigeria,Lagos,6.491998,3.424838,55.56,"{Others,Liquid}","{""PET bottles"",E-waste,Textiles}",High,2025-06-10
+237,"Jones, Preston and Mason",Retail,Nigeria,Abuja,9.029375,7.375366,23.49,"{Organic,Liquid}","{Wastewater,""Construction debris"",Textiles}",Medium,2026-01-19
+238,"James, Evans and Brown",Retail,Nigeria,Ibadan,7.370082,3.92311,11.93,"{Solid,Others}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2026-01-09
+239,Taylor and Sons,Restaurant,Nigeria,Abuja,9.08373,7.365228,22.85,"{Liquid,Organic}","{Textiles,""Construction debris"",""Food scraps""}",High,2024-12-08
+240,Benitez-Orozco,Manufacturer,Kenya,Nakuru,-0.344074,36.100498,92.1,"{Organic,Liquid}","{""Food scraps"",Textiles,""PET bottles""}",Medium,2025-03-07
+241,Stewart Ltd,Hotel,Kenya,Mombasa,-4.009662,39.657759,74.6,"{Solid,Others}","{Wastewater,E-waste,""PET bottles""}",High,2024-08-04
+242,Freeman Ltd,Restaurant,Kenya,Nairobi,-1.332782,36.769226,94.63,"{Others,Solid}","{""Food scraps"",""PET bottles"",Wastewater}",Medium,2024-08-01
+243,Walters-Smith,Restaurant,Kenya,Mombasa,-4.030321,39.687013,13.04,"{Others,Liquid}","{E-waste,""PET bottles"",Wastewater}",Low,2024-10-15
+244,Juarez and Sons,Restaurant,Kenya,Nairobi,-1.285938,36.837572,75.94,"{Organic,Liquid}","{Textiles,""Construction debris"",""PET bottles""}",Low,2025-06-07
+245,Burns Inc,Retail,Nigeria,Abuja,9.109626,7.434504,64.5,"{Organic,Solid}","{Wastewater,E-waste,""PET bottles""}",Low,2024-06-25
+246,"Hamilton, Jordan and Patterson",Retail,Nigeria,Port Harcourt,4.812694,7.028968,14.7,"{Liquid,Solid}","{Wastewater,Textiles,""PET bottles""}",Medium,2025-03-22
+247,Smith-Ferguson,Restaurant,Kenya,Nakuru,-0.280343,36.125171,78.64,"{Others,Organic}","{Textiles,""Food scraps"",E-waste}",Low,2025-10-05
+248,Dodson-Mcclain,Market,Nigeria,Kano,11.99986,8.552851,30.36,"{Organic,Others}","{Textiles,""PET bottles"",""Construction debris""}",Medium,2025-10-25
+249,"Lee, Rhodes and Sims",Manufacturer,Kenya,Nairobi,-1.322256,36.828872,52.62,"{Solid,Organic}","{E-waste,Wastewater,""Construction debris""}",Medium,2024-09-26
+250,Steele LLC,Restaurant,Nigeria,Abuja,9.03013,7.417474,51.11,"{Liquid,Others}","{""PET bottles"",Textiles,E-waste}",High,2024-11-14
+251,Garcia PLC,Retail,Nigeria,Kano,12.048127,8.56553,41.22,"{Organic,Others}","{E-waste,""Food scraps"",""Construction debris""}",Low,2025-06-17
+252,Jackson-Colon,Restaurant,Kenya,Mombasa,-4.041483,39.630354,27.76,"{Organic,Solid}","{E-waste,""PET bottles"",""Construction debris""}",Low,2024-11-03
+253,Bryant-Meyer,Hotel,Nigeria,Ibadan,7.328488,3.908798,79.69,"{Liquid,Others}","{Wastewater,Textiles,""PET bottles""}",Low,2025-04-28
+254,Hamilton-Mcdaniel,Hotel,Nigeria,Port Harcourt,4.834056,7.080125,76.54,"{Liquid,Solid}","{E-waste,""PET bottles"",Wastewater}",High,2024-06-28
+255,Ferrell-Henry,Retail,Kenya,Mombasa,-4.041039,39.701147,10.88,"{Solid,Organic}","{E-waste,""Food scraps"",Textiles}",Medium,2025-10-20
+256,Martin Group,Restaurant,Kenya,Mombasa,-4.024072,39.671979,39.79,"{Others,Liquid}","{""PET bottles"",""Food scraps"",Wastewater}",High,2024-03-31
+257,Walker and Sons,Retail,Kenya,Kisumu,-0.07882,34.810744,34.71,"{Liquid,Solid}","{Textiles,E-waste,Wastewater}",High,2024-08-28
+258,"Johnson, Wagner and Martinez",Market,Kenya,Nairobi,-1.277125,36.777521,29.48,"{Liquid,Others}","{""Food scraps"",""PET bottles"",E-waste}",Medium,2025-09-20
+259,"Conner, Brooks and Bowman",Market,Nigeria,Port Harcourt,4.832404,7.047185,20.1,"{Solid,Organic}","{Textiles,""PET bottles"",""Construction debris""}",Low,2025-11-06
+260,"Dean, Wheeler and Williams",Manufacturer,Nigeria,Lagos,6.506713,3.418801,11.76,"{Others,Solid}","{""Construction debris"",E-waste,Wastewater}",Medium,2024-06-08
+261,"Huff, Williams and Wilson",Retail,Kenya,Mombasa,-4.037462,39.655937,44.7,"{Liquid,Solid}","{Textiles,Wastewater,""Food scraps""}",High,2025-02-25
+262,Martinez-King,Retail,Kenya,Mombasa,-3.998928,39.701566,74.02,"{Others,Solid}","{""Construction debris"",Wastewater,""Food scraps""}",High,2025-09-13
+263,Harris Ltd,Hotel,Nigeria,Kano,11.96998,8.62857,69.59,"{Others,Organic}","{Textiles,""Construction debris"",""PET bottles""}",Medium,2025-07-19
+264,Turner Ltd,Hotel,Nigeria,Abuja,9.119798,7.448118,22.1,"{Solid,Organic}","{Textiles,Wastewater,""Construction debris""}",Low,2024-06-03
+265,"Meyer, Dean and Haynes",Hotel,Nigeria,Kano,12.002458,8.543255,27.66,"{Others,Solid}","{""Food scraps"",Wastewater,Textiles}",High,2025-02-05
+266,Hunt PLC,Manufacturer,Kenya,Eldoret,0.552693,35.306099,93.48,"{Others,Solid}","{""PET bottles"",E-waste,""Food scraps""}",Low,2024-06-16
+267,Wilson-Rodriguez,Market,Nigeria,Lagos,6.535671,3.400537,58.81,"{Solid,Organic}","{E-waste,""Food scraps"",Textiles}",Medium,2024-08-18
+268,"Gonzalez, Baker and Mills",Market,Kenya,Kisumu,-0.131954,34.772364,98.51,"{Organic,Solid}","{""Construction debris"",Wastewater,""PET bottles""}",High,2024-08-20
+269,Warner-Phillips,Restaurant,Nigeria,Port Harcourt,4.766971,7.066294,37.98,"{Organic,Others}","{Textiles,""PET bottles"",Wastewater}",Low,2024-04-16
+270,"Crawford, Clark and Fitzpatrick",Retail,Kenya,Nakuru,-0.348648,36.090878,71.98,"{Solid,Liquid}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2024-11-28
+271,Smith Ltd,Manufacturer,Nigeria,Lagos,6.508524,3.386023,58.13,"{Others,Organic}","{""Food scraps"",""Construction debris"",""PET bottles""}",High,2024-05-25
+272,Conley Ltd,Market,Kenya,Mombasa,-4.061727,39.680868,11.81,"{Organic,Others}","{""Construction debris"",Wastewater,E-waste}",Low,2025-04-04
+273,Herring PLC,Market,Kenya,Kisumu,-0.057971,34.782188,91.13,"{Solid,Others}","{""Food scraps"",E-waste,Wastewater}",Low,2024-05-14
+274,"Cummings, Conway and Newman",Hotel,Nigeria,Abuja,9.082983,7.389972,68.14,"{Solid,Organic}","{Wastewater,""Construction debris"",E-waste}",Medium,2025-03-06
+275,Baker-Williams,Manufacturer,Kenya,Nakuru,-0.317584,36.066386,79.51,"{Others,Liquid}","{""Construction debris"",""PET bottles"",""Food scraps""}",High,2025-12-08
+276,Sawyer LLC,Hotel,Nigeria,Abuja,9.080274,7.36964,58.56,"{Liquid,Organic}","{Wastewater,Textiles,""Construction debris""}",Low,2024-12-21
+277,"Edwards, Rodgers and Davis",Manufacturer,Kenya,Kisumu,-0.119877,34.744041,92.97,"{Solid,Others}","{""PET bottles"",E-waste,Wastewater}",Medium,2025-10-26
+417,Garcia-Schmitt,Market,Nigeria,Abuja,9.116511,7.360207,28.91,"{Liquid,Organic}","{E-waste,""PET bottles"",Wastewater}",Medium,2025-07-22
+278,Smith and Sons,Hotel,Nigeria,Port Harcourt,4.855681,7.032081,15.53,"{Organic,Others}","{E-waste,""Construction debris"",Wastewater}",Medium,2025-08-14
+279,"Jackson, Howard and Kim",Market,Kenya,Mombasa,-4.002162,39.648834,52.02,"{Organic,Solid}","{Textiles,E-waste,""Construction debris""}",High,2025-07-12
+280,Johns-Davis,Hotel,Nigeria,Ibadan,7.410972,3.922297,34.87,"{Others,Liquid}","{E-waste,Wastewater,""Food scraps""}",Low,2025-12-10
+281,White-Morales,Manufacturer,Kenya,Nakuru,-0.31051,36.056961,61.97,"{Organic,Others}","{Textiles,""PET bottles"",Wastewater}",High,2025-03-06
+282,Houston-Vaughn,Restaurant,Kenya,Eldoret,0.545545,35.232769,39.98,"{Organic,Solid}","{""PET bottles"",Wastewater,E-waste}",Medium,2025-03-23
+283,Banks-Robles,Hotel,Kenya,Nakuru,-0.353015,36.044774,89.47,"{Liquid,Organic}","{""PET bottles"",""Construction debris"",Textiles}",Medium,2024-06-12
+284,Horton Inc,Restaurant,Kenya,Mombasa,-4.078063,39.673741,79.8,"{Others,Organic}","{Wastewater,""Food scraps"",E-waste}",High,2026-01-01
+285,Garcia PLC,Market,Nigeria,Abuja,9.117762,7.415418,67.86,"{Organic,Solid}","{""PET bottles"",Wastewater,""Construction debris""}",Medium,2025-03-26
+286,"Gregory, White and James",Retail,Nigeria,Kano,12.034158,8.614993,38.57,"{Organic,Solid}","{E-waste,Textiles,""Food scraps""}",Low,2024-12-20
+287,"Johnson, Cohen and Roberson",Manufacturer,Kenya,Mombasa,-4.056564,39.652191,84.09,"{Others,Organic}","{""Construction debris"",""PET bottles"",Textiles}",Medium,2026-02-07
+288,Webb Group,Market,Kenya,Nairobi,-1.315266,36.810763,40.56,"{Others,Organic}","{Wastewater,""Construction debris"",E-waste}",High,2024-06-12
+289,Alexander-Brown,Retail,Nigeria,Lagos,6.500481,3.424708,20.93,"{Organic,Solid}","{""Food scraps"",Wastewater,""Construction debris""}",High,2025-08-07
+290,Smith-Oneill,Retail,Nigeria,Lagos,6.490467,3.34208,44.5,"{Organic,Solid}","{""Construction debris"",E-waste,Textiles}",Low,2025-04-28
+291,"Ray, Cunningham and Levine",Retail,Nigeria,Ibadan,7.353427,3.960452,51.46,"{Liquid,Solid}","{""Construction debris"",Wastewater,Textiles}",Low,2025-08-19
+292,Stone-Watts,Market,Kenya,Nakuru,-0.299928,36.068372,70.72,"{Organic,Solid}","{""Construction debris"",Textiles,Wastewater}",Low,2025-07-10
+293,Reynolds Ltd,Retail,Nigeria,Ibadan,7.332416,3.925211,16.75,"{Others,Solid}","{""Food scraps"",Textiles,Wastewater}",Medium,2024-09-26
+294,Reed-Rhodes,Hotel,Nigeria,Kano,12.019679,8.618639,9.69,"{Solid,Others}","{Wastewater,E-waste,""Food scraps""}",Medium,2025-01-09
+295,Combs PLC,Restaurant,Nigeria,Kano,12.015777,8.601534,33.72,"{Others,Organic}","{""PET bottles"",""Food scraps"",Textiles}",Low,2026-02-07
+296,"Brown, Schneider and Moore",Manufacturer,Kenya,Nakuru,-0.309989,36.057495,97.47,"{Solid,Liquid}","{Textiles,""Construction debris"",E-waste}",Low,2026-01-05
+297,Christian-Booth,Restaurant,Kenya,Kisumu,-0.104422,34.732631,97.92,"{Others,Liquid}","{""Construction debris"",""Food scraps"",Wastewater}",High,2024-05-14
+298,Flores-Rivera,Restaurant,Nigeria,Ibadan,7.367636,3.915433,61.77,"{Others,Organic}","{""PET bottles"",Textiles,Wastewater}",Medium,2024-10-19
+299,Hunter PLC,Retail,Kenya,Nairobi,-1.298965,36.814515,78.46,"{Liquid,Others}","{""Construction debris"",""PET bottles"",Wastewater}",High,2025-07-29
+300,Powell-Young,Restaurant,Kenya,Eldoret,0.510227,35.237906,35.64,"{Others,Organic}","{""Food scraps"",E-waste,""PET bottles""}",Medium,2025-03-08
+301,Solis-West,Market,Nigeria,Ibadan,7.38747,3.99463,30.91,"{Solid,Organic}","{""Construction debris"",Wastewater,""PET bottles""}",Low,2026-01-11
+302,West-Wilson,Hotel,Nigeria,Port Harcourt,4.848251,7.058635,53.7,"{Others,Solid}","{Textiles,""Food scraps"",Wastewater}",Medium,2025-04-07
+303,"Valdez, Garcia and Gutierrez",Retail,Nigeria,Kano,12.034442,8.557134,69.51,"{Solid,Liquid}","{""Construction debris"",""PET bottles"",E-waste}",Medium,2025-05-23
+304,"Smith, Davis and Munoz",Retail,Nigeria,Lagos,6.540449,3.386337,13.66,"{Liquid,Organic}","{""PET bottles"",Textiles,Wastewater}",Medium,2025-07-10
+305,"Torres, Romero and Clark",Manufacturer,Nigeria,Kano,11.997329,8.588694,19.22,"{Solid,Liquid}","{Wastewater,Textiles,E-waste}",Medium,2025-08-20
+306,Clements-Cox,Manufacturer,Kenya,Kisumu,-0.086058,34.767032,31.12,"{Solid,Others}","{Textiles,""Food scraps"",""Construction debris""}",Medium,2024-04-28
+307,Richard LLC,Market,Kenya,Mombasa,-3.994264,39.675281,26.08,"{Others,Liquid}","{E-waste,Wastewater,""PET bottles""}",Medium,2025-05-26
+308,"Greene, Moran and Cox",Hotel,Nigeria,Kano,12.029229,8.604984,55.82,"{Others,Organic}","{E-waste,""Construction debris"",Textiles}",Medium,2025-03-03
+309,Davis Ltd,Manufacturer,Nigeria,Abuja,9.11887,7.366337,28.77,"{Liquid,Solid}","{""Construction debris"",""PET bottles"",""Food scraps""}",Medium,2024-09-05
+310,Peterson Ltd,Market,Nigeria,Ibadan,7.368591,3.960682,52.56,"{Organic,Liquid}","{Textiles,E-waste,""Food scraps""}",Medium,2025-11-28
+311,Kelley-Brooks,Hotel,Kenya,Mombasa,-4.036546,39.665397,18.19,"{Organic,Liquid}","{Textiles,E-waste,""PET bottles""}",Low,2024-06-07
+312,Prince Group,Market,Nigeria,Kano,12.024485,8.565888,42.0,"{Liquid,Organic}","{Wastewater,""Food scraps"",Textiles}",Low,2024-07-04
+313,"Newton, Ortiz and King",Market,Nigeria,Ibadan,7.352067,3.957365,79.26,"{Others,Liquid}","{""Construction debris"",""Food scraps"",Wastewater}",Low,2024-08-16
+314,Martinez Group,Retail,Kenya,Nakuru,-0.280894,36.037009,77.37,"{Others,Solid}","{""Food scraps"",E-waste,Wastewater}",High,2024-08-31
+315,Summers-Lee,Retail,Kenya,Eldoret,0.535069,35.273197,12.13,"{Organic,Solid}","{E-waste,""Food scraps"",Wastewater}",Medium,2024-12-04
+316,Sherman Inc,Manufacturer,Nigeria,Ibadan,7.406304,3.907402,68.99,"{Organic,Liquid}","{""PET bottles"",Wastewater,E-waste}",High,2026-03-06
+317,"Monroe, Chapman and Barton",Restaurant,Nigeria,Abuja,9.117776,7.428129,23.13,"{Liquid,Others}","{""Construction debris"",""Food scraps"",E-waste}",High,2025-03-01
+318,Barrett-Blanchard,Hotel,Nigeria,Abuja,9.102177,7.382818,57.62,"{Others,Liquid}","{Wastewater,Textiles,""Construction debris""}",High,2024-06-29
+319,Smith-Fitzgerald,Hotel,Kenya,Mombasa,-4.078675,39.647049,29.89,"{Liquid,Others}","{Wastewater,""Construction debris"",""PET bottles""}",High,2025-05-20
+320,Roberson-Webb,Market,Nigeria,Ibadan,7.39887,3.964368,19.12,"{Solid,Liquid}","{Wastewater,E-waste,""Construction debris""}",High,2025-04-15
+321,Holt and Sons,Restaurant,Kenya,Nairobi,-1.251297,36.825546,23.35,"{Liquid,Solid}","{""Construction debris"",Textiles,E-waste}",Medium,2025-10-05
+322,Garcia Ltd,Manufacturer,Kenya,Kisumu,-0.077317,34.77667,55.1,"{Liquid,Solid}","{E-waste,""PET bottles"",""Construction debris""}",Low,2025-06-26
+323,"Andrade, Gordon and Cruz",Hotel,Nigeria,Ibadan,7.328985,3.991735,32.65,"{Solid,Organic}","{""PET bottles"",Wastewater,""Food scraps""}",High,2025-07-03
+324,"Farmer, Hill and Stuart",Restaurant,Kenya,Kisumu,-0.091823,34.774897,67.48,"{Solid,Liquid}","{""PET bottles"",Wastewater,""Food scraps""}",Medium,2024-10-31
+325,Ballard-Taylor,Manufacturer,Kenya,Kisumu,-0.09096,34.745103,96.55,"{Organic,Others}","{E-waste,Textiles,""PET bottles""}",Low,2025-06-27
+326,"Tanner, Hunt and Cameron",Retail,Nigeria,Abuja,9.095449,7.413655,25.65,"{Solid,Organic}","{Textiles,Wastewater,""Construction debris""}",Low,2025-05-16
+327,Joseph-Walls,Market,Kenya,Nairobi,-1.245775,36.780478,37.25,"{Solid,Organic}","{Textiles,""Construction debris"",E-waste}",Medium,2025-07-21
+328,Harris PLC,Restaurant,Kenya,Eldoret,0.558524,35.224888,81.1,"{Solid,Others}","{""Food scraps"",E-waste,""Construction debris""}",Medium,2025-09-22
+329,Parks-Morse,Manufacturer,Kenya,Nairobi,-1.282152,36.788722,53.85,"{Organic,Liquid}","{E-waste,""Food scraps"",""Construction debris""}",High,2024-06-28
+330,"Santos, Mullen and Gordon",Restaurant,Kenya,Eldoret,0.550937,35.281221,51.06,"{Liquid,Solid}","{Textiles,Wastewater,E-waste}",High,2025-09-07
+331,"Morris, Wilson and Bell",Hotel,Kenya,Kisumu,-0.090973,34.769376,95.63,"{Liquid,Others}","{""PET bottles"",Wastewater,Textiles}",High,2025-03-25
+332,"Duncan, Contreras and Butler",Restaurant,Nigeria,Ibadan,7.338709,3.972701,21.12,"{Liquid,Others}","{E-waste,""Construction debris"",""PET bottles""}",Low,2025-10-18
+333,"Mitchell, Boone and Stokes",Hotel,Kenya,Nakuru,-0.285801,36.039482,87.58,"{Solid,Organic}","{""Food scraps"",""PET bottles"",Textiles}",Medium,2025-04-27
+334,Johnson and Sons,Manufacturer,Nigeria,Kano,12.028821,8.589144,57.3,"{Solid,Liquid}","{""Construction debris"",""PET bottles"",Wastewater}",Low,2024-04-27
+335,"Brown, Adams and Floyd",Market,Kenya,Nakuru,-0.274518,36.115261,64.91,"{Liquid,Others}","{E-waste,Textiles,""Construction debris""}",High,2024-10-25
+336,"King, Franco and Vaughn",Hotel,Nigeria,Abuja,9.119763,7.395772,69.65,"{Liquid,Organic}","{Wastewater,""Construction debris"",Textiles}",High,2024-11-01
+337,Molina Inc,Restaurant,Nigeria,Ibadan,7.358364,3.953369,62.91,"{Others,Organic}","{E-waste,Wastewater,""PET bottles""}",Medium,2024-12-20
+338,Garcia-Parrish,Hotel,Nigeria,Lagos,6.556232,3.349427,55.67,"{Liquid,Solid}","{""Food scraps"",Wastewater,E-waste}",Medium,2025-10-12
+339,"Hancock, Newton and Hoffman",Manufacturer,Nigeria,Port Harcourt,4.821551,7.019789,23.48,"{Others,Solid}","{""Food scraps"",""Construction debris"",""PET bottles""}",Low,2024-09-17
+340,"Mueller, Lindsey and Roberts",Restaurant,Nigeria,Ibadan,7.421711,3.956334,76.55,"{Others,Liquid}","{""Construction debris"",E-waste,""PET bottles""}",Medium,2025-08-15
+341,House Group,Hotel,Nigeria,Lagos,6.484523,3.393169,27.88,"{Others,Solid}","{""Food scraps"",E-waste,""PET bottles""}",High,2025-02-03
+342,"Edwards, Arnold and Smith",Market,Kenya,Kisumu,-0.043984,34.791201,84.19,"{Liquid,Others}","{""PET bottles"",Textiles,""Food scraps""}",Medium,2024-09-28
+343,Oliver Group,Manufacturer,Kenya,Kisumu,-0.084429,34.794235,33.46,"{Liquid,Others}","{""Food scraps"",""PET bottles"",""Construction debris""}",High,2025-12-21
+344,Pruitt Ltd,Market,Nigeria,Kano,12.042689,8.58654,71.69,"{Liquid,Solid}","{""PET bottles"",E-waste,Wastewater}",Medium,2025-09-19
+345,"Richardson, Chapman and Rodgers",Restaurant,Kenya,Kisumu,-0.116166,34.792721,12.08,"{Others,Solid}","{E-waste,""Construction debris"",""Food scraps""}",High,2024-08-16
+346,"Brandt, Phillips and Thompson",Manufacturer,Kenya,Eldoret,0.507707,35.276351,99.61,"{Liquid,Others}","{E-waste,Wastewater,Textiles}",High,2025-08-29
+347,Lopez and Sons,Manufacturer,Kenya,Nairobi,-1.279858,36.864646,80.25,"{Solid,Liquid}","{""Food scraps"",Textiles,E-waste}",High,2025-10-08
+348,"Wilson, Williams and Ramirez",Retail,Kenya,Nairobi,-1.259677,36.810318,34.92,"{Solid,Liquid}","{Wastewater,""Food scraps"",""PET bottles""}",High,2024-10-08
+349,Martin LLC,Retail,Nigeria,Ibadan,7.380333,3.966299,67.06,"{Organic,Solid}","{Textiles,Wastewater,""Food scraps""}",High,2024-03-21
+350,Owens-Pineda,Market,Nigeria,Lagos,6.475233,3.361444,18.84,"{Liquid,Others}","{E-waste,""PET bottles"",Wastewater}",High,2024-04-17
+351,Mcfarland PLC,Restaurant,Kenya,Mombasa,-4.016178,39.63882,26.34,"{Organic,Others}","{Textiles,Wastewater,""Food scraps""}",Medium,2024-04-25
+352,"Gilbert, Stanley and Henry",Hotel,Nigeria,Abuja,9.092296,7.368744,19.76,"{Solid,Organic}","{Wastewater,""Food scraps"",""PET bottles""}",Medium,2025-06-04
+353,"Howard, Bowers and Stewart",Market,Kenya,Nakuru,-0.350557,36.116778,86.88,"{Others,Organic}","{E-waste,""Construction debris"",Textiles}",Low,2024-09-03
+354,Meyer PLC,Manufacturer,Kenya,Nakuru,-0.294077,36.04249,97.23,"{Organic,Others}","{""PET bottles"",""Food scraps"",E-waste}",High,2024-07-18
+355,Daniels-Powell,Manufacturer,Nigeria,Kano,11.993692,8.562989,14.54,"{Liquid,Solid}","{Wastewater,Textiles,""Food scraps""}",Medium,2024-12-13
+356,Ware Ltd,Restaurant,Kenya,Nairobi,-1.298386,36.809224,96.54,"{Liquid,Solid}","{Wastewater,""Food scraps"",E-waste}",High,2024-11-29
+357,Ward-Robinson,Retail,Nigeria,Abuja,9.12645,7.357019,54.34,"{Others,Organic}","{Wastewater,""Construction debris"",""Food scraps""}",Low,2025-10-22
+358,"Moreno, Barajas and Colon",Retail,Kenya,Mombasa,-4.037019,39.631001,24.02,"{Organic,Others}","{Textiles,""PET bottles"",Wastewater}",Medium,2025-08-03
+359,Wilson LLC,Market,Nigeria,Abuja,9.068403,7.366038,45.34,"{Solid,Others}","{""Food scraps"",""PET bottles"",""Construction debris""}",Medium,2025-02-26
+360,Conway PLC,Manufacturer,Kenya,Kisumu,-0.101337,34.755274,85.73,"{Liquid,Organic}","{""Food scraps"",Wastewater,""Construction debris""}",Medium,2026-02-28
+361,"Sanchez, Williams and Blackwell",Manufacturer,Kenya,Mombasa,-4.002119,39.622856,43.93,"{Solid,Organic}","{""Food scraps"",""Construction debris"",Wastewater}",Low,2025-01-07
+362,Cruz PLC,Retail,Kenya,Nakuru,-0.25428,36.041266,52.81,"{Others,Organic}","{Textiles,""Food scraps"",Wastewater}",Medium,2025-09-30
+363,Johnson-Black,Manufacturer,Nigeria,Kano,11.964999,8.607593,34.32,"{Organic,Solid}","{E-waste,Textiles,""PET bottles""}",Low,2025-11-05
+364,Robertson-Hicks,Restaurant,Kenya,Eldoret,0.483341,35.314009,30.3,"{Organic,Liquid}","{E-waste,Wastewater,""Food scraps""}",Low,2025-03-30
+365,Phillips Ltd,Retail,Kenya,Kisumu,-0.123239,34.783893,39.58,"{Liquid,Organic}","{Wastewater,E-waste,""Construction debris""}",High,2024-08-13
+366,Palmer-Vaughan,Retail,Kenya,Eldoret,0.544001,35.304855,77.31,"{Organic,Others}","{""PET bottles"",""Food scraps"",""Construction debris""}",High,2024-07-25
+367,"Ferguson, Sims and Clark",Retail,Kenya,Mombasa,-4.077288,39.650459,61.49,"{Liquid,Organic}","{""Construction debris"",Textiles,E-waste}",Medium,2025-07-18
+368,Hancock Group,Hotel,Kenya,Nakuru,-0.290968,36.084613,20.6,"{Liquid,Solid}","{""PET bottles"",Wastewater,Textiles}",Medium,2025-12-26
+369,Harris Ltd,Restaurant,Nigeria,Lagos,6.54118,3.363444,45.37,"{Liquid,Solid}","{""Construction debris"",""Food scraps"",""PET bottles""}",Low,2026-01-28
+370,"Rowe, Lucas and Case",Market,Kenya,Nakuru,-0.270091,36.042053,74.14,"{Liquid,Solid}","{E-waste,""Construction debris"",""Food scraps""}",High,2025-10-18
+371,"Hernandez, Stevens and Rivera",Market,Kenya,Nakuru,-0.271096,36.118587,55.98,"{Solid,Organic}","{""PET bottles"",Wastewater,""Construction debris""}",High,2024-05-23
+372,Brown LLC,Manufacturer,Kenya,Eldoret,0.506626,35.242822,95.24,"{Solid,Others}","{""PET bottles"",""Food scraps"",""Construction debris""}",High,2025-05-24
+373,Andrews and Sons,Market,Kenya,Mombasa,-4.039395,39.713719,48.16,"{Liquid,Organic}","{E-waste,Wastewater,""Construction debris""}",High,2026-02-22
+374,Russell-Hayes,Restaurant,Nigeria,Ibadan,7.374362,3.910652,75.55,"{Organic,Solid}","{""Construction debris"",Textiles,Wastewater}",Low,2025-01-25
+375,Stewart-Price,Market,Kenya,Nairobi,-1.260872,36.781253,53.28,"{Solid,Others}","{""PET bottles"",E-waste,Textiles}",High,2024-06-16
+376,"Smith, Cortez and Brown",Hotel,Kenya,Mombasa,-4.010044,39.625259,96.7,"{Solid,Others}","{""Food scraps"",Textiles,""PET bottles""}",Low,2025-10-17
+377,"Williams, Charles and Howard",Restaurant,Nigeria,Abuja,9.093703,7.424632,8.78,"{Liquid,Others}","{""Food scraps"",Textiles,E-waste}",Low,2025-04-11
+378,Roberts Ltd,Market,Nigeria,Kano,12.034403,8.596082,51.92,"{Organic,Liquid}","{Wastewater,""Construction debris"",""Food scraps""}",Medium,2024-11-06
+379,"Miller, Hubbard and Kim",Retail,Nigeria,Lagos,6.537069,3.371797,20.13,"{Liquid,Organic}","{Textiles,""Food scraps"",""Construction debris""}",High,2025-01-17
+380,"Johnson, Moore and Robinson",Retail,Nigeria,Abuja,9.113415,7.415065,68.24,"{Others,Organic}","{""Construction debris"",""Food scraps"",Wastewater}",High,2025-10-18
+381,Robles-Atkinson,Hotel,Nigeria,Kano,12.016206,8.574839,56.02,"{Liquid,Organic}","{""Food scraps"",""Construction debris"",E-waste}",Low,2024-11-01
+382,"Thomas, Byrd and Sloan",Retail,Nigeria,Abuja,9.085587,7.415137,15.49,"{Others,Liquid}","{Textiles,E-waste,""Food scraps""}",High,2025-11-24
+383,"Wong, Bernard and Smith",Restaurant,Kenya,Eldoret,0.554181,35.284048,18.87,"{Organic,Others}","{Wastewater,Textiles,E-waste}",Medium,2026-01-25
+384,"Thomas, Williams and Armstrong",Manufacturer,Kenya,Kisumu,-0.076993,34.761981,51.47,"{Organic,Solid}","{""Construction debris"",E-waste,""Food scraps""}",Low,2025-01-17
+385,"Kelley, Miller and Clark",Retail,Kenya,Nairobi,-1.273337,36.800119,36.3,"{Organic,Liquid}","{E-waste,Wastewater,Textiles}",High,2025-10-13
+386,"Cooper, Gutierrez and Brewer",Restaurant,Nigeria,Kano,12.049537,8.566826,40.11,"{Liquid,Solid}","{""Construction debris"",Wastewater,""PET bottles""}",Low,2025-04-19
+387,Martin and Sons,Retail,Nigeria,Ibadan,7.402894,3.975137,20.39,"{Organic,Solid}","{Wastewater,Textiles,""PET bottles""}",Medium,2025-07-09
+388,Lee-White,Manufacturer,Nigeria,Lagos,6.565796,3.338249,37.24,"{Others,Liquid}","{""PET bottles"",E-waste,""Construction debris""}",Medium,2025-11-28
+389,"Phelps, York and Randolph",Market,Nigeria,Kano,11.985879,8.585733,34.03,"{Solid,Others}","{""Food scraps"",""Construction debris"",""PET bottles""}",High,2025-05-17
+390,Newman-Jones,Manufacturer,Nigeria,Port Harcourt,4.835577,7.055893,62.49,"{Solid,Others}","{Textiles,""Food scraps"",""PET bottles""}",Low,2025-08-20
+391,King and Sons,Market,Kenya,Eldoret,0.56183,35.286099,86.7,"{Liquid,Others}","{Wastewater,E-waste,""PET bottles""}",Medium,2025-10-01
+392,"Freeman, Rivera and Anderson",Market,Kenya,Kisumu,-0.08036,34.815031,39.15,"{Others,Organic}","{""PET bottles"",Textiles,""Construction debris""}",High,2025-08-08
+393,Garcia PLC,Market,Nigeria,Lagos,6.523828,3.412531,78.79,"{Solid,Others}","{""Construction debris"",""PET bottles"",Textiles}",Low,2024-05-10
+394,Stewart Group,Retail,Nigeria,Abuja,9.122938,7.434327,42.8,"{Others,Liquid}","{Textiles,""Construction debris"",""PET bottles""}",Medium,2024-11-27
+395,"Hopkins, Steele and Hernandez",Retail,Kenya,Eldoret,0.52845,35.282506,89.97,"{Liquid,Others}","{Wastewater,""Construction debris"",E-waste}",Medium,2025-05-31
+396,Aguirre-Benjamin,Market,Nigeria,Abuja,9.058494,7.384281,76.98,"{Liquid,Others}","{""PET bottles"",Textiles,""Construction debris""}",Low,2024-07-25
+397,Edwards and Sons,Hotel,Nigeria,Port Harcourt,4.796902,7.080569,51.49,"{Solid,Others}","{Wastewater,Textiles,""Food scraps""}",Medium,2025-09-21
+398,"Davidson, Hill and Ward",Restaurant,Nigeria,Ibadan,7.386668,3.903506,79.7,"{Others,Liquid}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2025-08-26
+399,"Rivera, Castillo and Griffin",Manufacturer,Kenya,Nairobi,-1.268188,36.773764,74.7,"{Liquid,Others}","{""Food scraps"",Textiles,E-waste}",Medium,2025-11-08
+400,Tucker-Rodriguez,Hotel,Kenya,Nakuru,-0.331579,36.075236,58.46,"{Liquid,Organic}","{Textiles,""Construction debris"",E-waste}",Low,2025-07-31
+401,"Miller, Ramirez and Serrano",Manufacturer,Nigeria,Lagos,6.571468,3.334503,62.32,"{Organic,Others}","{Textiles,""Food scraps"",E-waste}",High,2026-02-07
+402,"Gonzalez, Gross and Sims",Market,Kenya,Mombasa,-4.068597,39.678359,78.29,"{Solid,Organic}","{""Construction debris"",E-waste,""Food scraps""}",Medium,2025-10-03
+403,Mcclain PLC,Retail,Kenya,Nairobi,-1.241774,36.824623,95.41,"{Others,Solid}","{""Construction debris"",E-waste,""PET bottles""}",Medium,2025-07-20
+404,Hess PLC,Hotel,Kenya,Nairobi,-1.305269,36.784964,48.73,"{Others,Organic}","{""PET bottles"",Wastewater,E-waste}",Low,2025-01-25
+405,"Lewis, Johnson and Green",Restaurant,Kenya,Kisumu,-0.043138,34.781257,40.57,"{Liquid,Organic}","{Textiles,""Food scraps"",""Construction debris""}",High,2026-02-09
+406,"Kennedy, Rowe and Diaz",Restaurant,Nigeria,Lagos,6.49123,3.425566,46.1,"{Liquid,Solid}","{Wastewater,""Food scraps"",""Construction debris""}",Low,2024-09-06
+407,"Quinn, Carter and Marshall",Hotel,Kenya,Mombasa,-4.029829,39.668026,58.17,"{Organic,Liquid}","{""PET bottles"",Textiles,Wastewater}",High,2025-04-17
+408,Sanders PLC,Market,Kenya,Nakuru,-0.282462,36.117992,25.97,"{Others,Organic}","{Textiles,""Food scraps"",""Construction debris""}",Medium,2024-03-25
+409,"Allen, Maynard and Holden",Restaurant,Nigeria,Lagos,6.509284,3.347248,45.33,"{Others,Organic}","{Textiles,""PET bottles"",Wastewater}",Medium,2025-08-30
+410,Todd and Sons,Market,Nigeria,Ibadan,7.421963,3.963911,12.71,"{Liquid,Organic}","{""PET bottles"",E-waste,""Construction debris""}",Medium,2025-02-26
+411,White PLC,Manufacturer,Kenya,Kisumu,-0.13584,34.816191,53.24,"{Organic,Liquid}","{""Food scraps"",Wastewater,E-waste}",High,2025-08-11
+412,Fitzgerald Group,Retail,Kenya,Kisumu,-0.10967,34.762746,27.82,"{Others,Solid}","{E-waste,""Food scraps"",""Construction debris""}",Low,2026-03-16
+413,Williams-Juarez,Retail,Nigeria,Lagos,6.50653,3.377616,35.99,"{Liquid,Others}","{""Construction debris"",""Food scraps"",Textiles}",Low,2024-09-13
+414,Baker and Sons,Market,Kenya,Kisumu,-0.052493,34.792741,61.41,"{Liquid,Others}","{""Food scraps"",Textiles,""Construction debris""}",Low,2024-04-19
+415,"Clark, Velez and Ward",Retail,Nigeria,Ibadan,7.346386,3.993459,11.78,"{Solid,Liquid}","{Wastewater,""Food scraps"",""PET bottles""}",Low,2025-03-16
+416,Keith-Williams,Market,Nigeria,Abuja,9.115715,7.419815,13.25,"{Others,Organic}","{Textiles,""Construction debris"",""Food scraps""}",Low,2025-08-02
+418,Davenport-Baker,Retail,Kenya,Mombasa,-4.07931,39.642823,70.17,"{Liquid,Organic}","{""Construction debris"",Wastewater,E-waste}",High,2025-05-13
+419,"Thompson, Valdez and Diaz",Market,Kenya,Nakuru,-0.270744,36.067738,85.84,"{Others,Solid}","{Textiles,""Food scraps"",E-waste}",Low,2025-08-06
+420,Black Group,Restaurant,Nigeria,Abuja,9.092775,7.370871,53.91,"{Solid,Others}","{""Food scraps"",""PET bottles"",Wastewater}",Low,2026-02-19
+421,Black LLC,Hotel,Nigeria,Ibadan,7.356043,3.925684,69.6,"{Organic,Others}","{E-waste,""PET bottles"",""Food scraps""}",High,2025-12-11
+422,Tucker-Olson,Restaurant,Nigeria,Abuja,9.039191,7.44813,41.76,"{Organic,Others}","{""Food scraps"",E-waste,""PET bottles""}",Low,2025-06-29
+423,Shaw and Sons,Retail,Kenya,Mombasa,-4.049882,39.655296,76.45,"{Organic,Liquid}","{Textiles,""PET bottles"",""Construction debris""}",High,2025-02-21
+424,Hall PLC,Hotel,Nigeria,Lagos,6.531259,3.424065,32.58,"{Solid,Others}","{E-waste,""PET bottles"",""Food scraps""}",Medium,2025-07-29
+425,Lewis-Lopez,Market,Nigeria,Abuja,9.121161,7.399133,24.22,"{Liquid,Others}","{""Construction debris"",E-waste,""Food scraps""}",Medium,2024-12-23
+426,"Love, Wilson and Hall",Manufacturer,Kenya,Mombasa,-4.033311,39.646987,24.5,"{Liquid,Organic}","{""Food scraps"",""Construction debris"",E-waste}",High,2025-12-07
+427,Cortez-Olson,Restaurant,Kenya,Eldoret,0.542408,35.292188,38.95,"{Solid,Organic}","{""Construction debris"",""PET bottles"",""Food scraps""}",Medium,2025-03-23
+428,Clark-Martin,Market,Kenya,Eldoret,0.476202,35.258533,61.03,"{Organic,Liquid}","{Textiles,""Food scraps"",""Construction debris""}",High,2025-12-24
+429,Johnson-Williams,Retail,Nigeria,Port Harcourt,4.830033,7.028091,52.36,"{Solid,Liquid}","{E-waste,Textiles,Wastewater}",Medium,2025-06-05
+430,"Martin, Soto and Williams",Hotel,Nigeria,Ibadan,7.419505,3.912354,46.62,"{Solid,Organic}","{Wastewater,""PET bottles"",E-waste}",Medium,2025-06-04
+431,Brown LLC,Restaurant,Kenya,Kisumu,-0.067701,34.76113,36.99,"{Others,Solid}","{""Construction debris"",Textiles,""PET bottles""}",Medium,2026-03-03
+432,Black Group,Retail,Kenya,Kisumu,-0.120892,34.758535,89.53,"{Others,Solid}","{E-waste,""Construction debris"",Wastewater}",Medium,2025-06-25
+433,"Walsh, Johns and Luna",Market,Nigeria,Ibadan,7.340873,3.950034,25.71,"{Solid,Liquid}","{""Construction debris"",Textiles,Wastewater}",Medium,2025-12-14
+434,Valentine-Robinson,Restaurant,Nigeria,Kano,12.016579,8.563307,18.18,"{Others,Solid}","{Textiles,E-waste,""Food scraps""}",Low,2025-07-01
+435,Dillon-Jackson,Manufacturer,Kenya,Kisumu,-0.086533,34.733628,44.59,"{Others,Organic}","{E-waste,""Food scraps"",""PET bottles""}",Medium,2025-12-21
+436,Burke-Norton,Retail,Kenya,Kisumu,-0.043339,34.786019,79.23,"{Solid,Organic}","{E-waste,Wastewater,""Construction debris""}",Low,2025-12-14
+437,Hanson PLC,Restaurant,Kenya,Nakuru,-0.321478,36.123327,65.11,"{Organic,Others}","{""Food scraps"",""Construction debris"",Textiles}",Low,2024-10-08
+438,Ramsey LLC,Market,Nigeria,Lagos,6.505708,3.419386,22.62,"{Solid,Others}","{""Food scraps"",Wastewater,Textiles}",High,2026-03-03
+439,Carlson-Jones,Manufacturer,Nigeria,Ibadan,7.361424,3.914562,29.83,"{Solid,Organic}","{""PET bottles"",E-waste,""Food scraps""}",High,2025-01-04
+440,Anderson-Smith,Hotel,Nigeria,Abuja,9.082645,7.411442,58.39,"{Solid,Organic}","{""Construction debris"",""PET bottles"",E-waste}",Low,2025-04-27
+441,"Cohen, Serrano and Jacobs",Restaurant,Kenya,Mombasa,-4.005454,39.665487,52.92,"{Liquid,Solid}","{Textiles,""Construction debris"",""PET bottles""}",Medium,2024-08-01
+442,Valenzuela-Greene,Restaurant,Kenya,Nakuru,-0.258439,36.086703,89.7,"{Liquid,Organic}","{""PET bottles"",""Construction debris"",Wastewater}",High,2026-01-27
+443,"Gordon, Wilson and Olson",Market,Nigeria,Abuja,9.037576,7.442077,77.15,"{Liquid,Solid}","{""Construction debris"",""Food scraps"",Wastewater}",High,2024-06-26
+444,"Ryan, Smith and Pace",Hotel,Nigeria,Lagos,6.536565,3.388238,79.4,"{Liquid,Organic}","{Textiles,Wastewater,""Food scraps""}",Medium,2025-08-26
+445,"Reynolds, Fisher and Golden",Retail,Nigeria,Abuja,9.03168,7.372454,30.08,"{Others,Solid}","{""Food scraps"",Wastewater,E-waste}",High,2025-09-09
+446,"Patterson, Mays and Olson",Manufacturer,Kenya,Kisumu,-0.086575,34.731021,98.04,"{Organic,Liquid}","{Textiles,""Food scraps"",Wastewater}",Medium,2025-11-04
+447,Bell-Ballard,Retail,Kenya,Nakuru,-0.315097,36.033623,70.47,"{Liquid,Solid}","{Textiles,E-waste,""Construction debris""}",High,2026-02-20
+448,"Johnston, Coleman and Scott",Retail,Nigeria,Abuja,9.12077,7.420486,47.77,"{Liquid,Solid}","{""Food scraps"",E-waste,""Construction debris""}",High,2025-11-01
+449,Kent Inc,Restaurant,Nigeria,Port Harcourt,4.855136,7.002145,17.25,"{Solid,Organic}","{""PET bottles"",Wastewater,""Food scraps""}",Low,2024-10-23
+450,"Mcdowell, Ortiz and Lopez",Hotel,Kenya,Nairobi,-1.25002,36.768188,11.21,"{Organic,Others}","{Textiles,E-waste,Wastewater}",High,2025-09-18
+451,"Clarke, Lane and Wilson",Restaurant,Kenya,Eldoret,0.482558,35.290195,27.96,"{Solid,Organic}","{""Construction debris"",""Food scraps"",Textiles}",Medium,2024-03-22
+452,Pena-Watts,Manufacturer,Kenya,Mombasa,-4.088477,39.626147,38.84,"{Solid,Others}","{""PET bottles"",E-waste,""Construction debris""}",Medium,2024-11-17
+453,Cox-Moore,Restaurant,Nigeria,Port Harcourt,4.852055,7.005971,21.31,"{Organic,Others}","{""PET bottles"",Wastewater,""Construction debris""}",High,2025-08-05
+454,"King, Wyatt and Henderson",Hotel,Kenya,Nairobi,-1.266102,36.774801,26.83,"{Solid,Organic}","{E-waste,Textiles,Wastewater}",High,2024-12-26
+455,"Hill, Becker and Fischer",Hotel,Nigeria,Port Harcourt,4.829613,7.02167,26.07,"{Solid,Liquid}","{""Food scraps"",Wastewater,Textiles}",Low,2025-01-31
+456,"Bowers, Olson and Wood",Manufacturer,Kenya,Nairobi,-1.330111,36.801645,75.96,"{Others,Organic}","{""Construction debris"",E-waste,""Food scraps""}",High,2025-05-22
+457,King-Parker,Manufacturer,Kenya,Kisumu,-0.082888,34.809589,42.53,"{Organic,Liquid}","{Wastewater,""Construction debris"",E-waste}",Medium,2024-12-09
+458,"Sanders, Taylor and Shields",Market,Nigeria,Kano,12.002148,8.618297,30.57,"{Solid,Liquid}","{""PET bottles"",""Food scraps"",Wastewater}",Medium,2024-06-17
+459,"Hall, Logan and Avery",Retail,Nigeria,Ibadan,7.359999,3.976665,76.06,"{Others,Solid}","{E-waste,""PET bottles"",Textiles}",High,2024-06-02
+460,Romero LLC,Retail,Nigeria,Ibadan,7.422525,3.984376,64.76,"{Solid,Others}","{Wastewater,""Food scraps"",E-waste}",High,2025-11-29
+461,"Mendez, Cohen and Williams",Retail,Kenya,Mombasa,-4.034183,39.636597,18.54,"{Others,Organic}","{Wastewater,""Construction debris"",""PET bottles""}",Low,2025-01-13
+462,"Smith, Davis and Thomas",Hotel,Nigeria,Ibadan,7.343394,3.980018,69.47,"{Solid,Organic}","{E-waste,Textiles,""Construction debris""}",Medium,2026-03-06
+463,"Graham, Brown and Walker",Restaurant,Nigeria,Abuja,9.075213,7.415153,33.44,"{Organic,Solid}","{""Construction debris"",E-waste,Wastewater}",Low,2024-05-18
+464,"Johnson, Cruz and Joyce",Restaurant,Kenya,Eldoret,0.564694,35.300142,47.47,"{Liquid,Others}","{""PET bottles"",Wastewater,Textiles}",High,2025-07-06
+465,"Meyer, Dawson and Harper",Hotel,Nigeria,Port Harcourt,4.777739,7.012787,28.3,"{Solid,Others}","{Textiles,E-waste,""Food scraps""}",Low,2025-11-07
+466,Bowman Group,Market,Nigeria,Kano,11.993879,8.562902,31.49,"{Liquid,Others}","{E-waste,Wastewater,Textiles}",High,2024-03-25
+467,Jefferson PLC,Manufacturer,Nigeria,Abuja,9.116665,7.445121,64.27,"{Solid,Liquid}","{Textiles,""Construction debris"",""PET bottles""}",Low,2024-10-25
+468,Johnson PLC,Restaurant,Nigeria,Port Harcourt,4.812529,7.001784,44.79,"{Others,Organic}","{Textiles,Wastewater,""Food scraps""}",High,2025-04-17
+469,"Hale, Gilbert and Craig",Hotel,Nigeria,Ibadan,7.387822,3.986131,77.0,"{Organic,Solid}","{E-waste,""PET bottles"",Wastewater}",High,2024-12-21
+470,Pena and Sons,Restaurant,Kenya,Kisumu,-0.056925,34.723858,32.19,"{Liquid,Solid}","{Textiles,E-waste,""PET bottles""}",Medium,2024-05-23
+471,Chan-Gomez,Market,Nigeria,Ibadan,7.42609,3.957517,46.61,"{Organic,Solid}","{""Construction debris"",""Food scraps"",""PET bottles""}",High,2025-01-17
+472,Willis-Holmes,Restaurant,Nigeria,Abuja,9.10555,7.390873,66.94,"{Liquid,Solid}","{""PET bottles"",""Construction debris"",Wastewater}",Low,2025-10-10
+473,"Jones, Davis and Mitchell",Market,Kenya,Nakuru,-0.345228,36.076519,91.88,"{Others,Liquid}","{E-waste,Textiles,""PET bottles""}",High,2025-12-21
+474,"Herman, Bailey and Richmond",Manufacturer,Nigeria,Kano,11.962953,8.569311,27.87,"{Others,Solid}","{""PET bottles"",Textiles,""Construction debris""}",Medium,2024-10-17
+475,Obrien and Sons,Market,Kenya,Nairobi,-1.331147,36.799877,52.94,"{Liquid,Others}","{E-waste,Textiles,""Food scraps""}",High,2025-03-05
+476,Andrews-Green,Restaurant,Nigeria,Kano,11.991733,8.574617,68.2,"{Liquid,Solid}","{Textiles,""Construction debris"",""Food scraps""}",High,2025-01-27
+477,"Rodriguez, Jones and Phillips",Restaurant,Kenya,Mombasa,-4.043809,39.710901,22.59,"{Solid,Liquid}","{""PET bottles"",""Food scraps"",Wastewater}",Medium,2024-06-15
+478,"Frye, Walter and Li",Manufacturer,Nigeria,Lagos,6.515643,3.404291,43.46,"{Organic,Liquid}","{E-waste,""Construction debris"",""PET bottles""}",High,2025-06-06
+479,Benson-Church,Hotel,Kenya,Mombasa,-4.048627,39.629731,92.03,"{Solid,Organic}","{""Food scraps"",Textiles,""Construction debris""}",Low,2025-05-28
+480,Carrillo-Todd,Market,Kenya,Nakuru,-0.34886,36.051925,30.94,"{Solid,Liquid}","{Wastewater,""Construction debris"",E-waste}",High,2025-11-09
+481,Maldonado-Mosley,Retail,Nigeria,Lagos,6.525404,3.35817,9.69,"{Organic,Others}","{""PET bottles"",Textiles,""Food scraps""}",Low,2026-01-15
+482,Olson LLC,Hotel,Kenya,Eldoret,0.519507,35.254718,17.26,"{Solid,Others}","{""PET bottles"",""Construction debris"",""Food scraps""}",High,2024-05-08
+483,Schultz-Gamble,Market,Nigeria,Kano,12.007805,8.593044,19.51,"{Liquid,Solid}","{""PET bottles"",Wastewater,Textiles}",Medium,2025-08-24
+484,"Hall, Stewart and Moses",Manufacturer,Kenya,Kisumu,-0.096537,34.76251,97.1,"{Others,Organic}","{""PET bottles"",""Food scraps"",Textiles}",Medium,2025-04-22
+485,"Smith, Collier and Wright",Market,Kenya,Mombasa,-4.073463,39.675227,77.25,"{Liquid,Solid}","{E-waste,""Food scraps"",""PET bottles""}",High,2024-05-28
+486,Nunez-Nicholson,Market,Nigeria,Abuja,9.077589,7.379564,23.58,"{Liquid,Organic}","{E-waste,""Construction debris"",Wastewater}",Medium,2024-05-15
+487,"Velazquez, Woods and Gomez",Manufacturer,Nigeria,Port Harcourt,4.84094,7.091926,42.57,"{Liquid,Others}","{""PET bottles"",""Food scraps"",Textiles}",Low,2026-02-09
+488,"Adams, Valentine and Vega",Restaurant,Kenya,Eldoret,0.475363,35.220901,34.68,"{Liquid,Solid}","{E-waste,Textiles,""PET bottles""}",Low,2026-02-21
+489,Porter and Sons,Hotel,Kenya,Kisumu,-0.120171,34.737035,48.08,"{Organic,Solid}","{E-waste,""Food scraps"",Wastewater}",Low,2024-09-15
+490,"Allen, Baker and Perez",Market,Kenya,Kisumu,-0.127518,34.763649,93.9,"{Organic,Liquid}","{""Construction debris"",""Food scraps"",E-waste}",Low,2025-12-25
+491,Huff LLC,Manufacturer,Kenya,Nairobi,-1.327779,36.790703,88.28,"{Liquid,Solid}","{""Food scraps"",Textiles,E-waste}",Low,2024-07-16
+492,Wilson Inc,Retail,Kenya,Mombasa,-4.086961,39.686008,12.69,"{Others,Solid}","{E-waste,""PET bottles"",""Food scraps""}",High,2025-08-23
+493,"Vasquez, Smith and Vincent",Retail,Kenya,Nairobi,-1.240446,36.854861,73.89,"{Solid,Others}","{""Food scraps"",Wastewater,""PET bottles""}",Low,2024-04-18
+494,Watson-Stewart,Retail,Nigeria,Lagos,6.573963,3.333618,48.55,"{Others,Organic}","{""Construction debris"",""Food scraps"",Wastewater}",Medium,2026-02-12
+495,"Melton, Henry and Joyce",Hotel,Kenya,Eldoret,0.50709,35.301851,59.01,"{Liquid,Others}","{Textiles,""Construction debris"",""PET bottles""}",Medium,2026-02-26
+496,"Ramirez, Walker and Ray",Hotel,Nigeria,Ibadan,7.344958,3.937218,41.66,"{Liquid,Organic}","{""Construction debris"",E-waste,Textiles}",Medium,2024-04-28
+497,"Lloyd, Mendoza and Fernandez",Hotel,Nigeria,Lagos,6.534594,3.417683,31.96,"{Others,Solid}","{Textiles,""PET bottles"",""Food scraps""}",Medium,2025-04-11
+498,Long-Parks,Manufacturer,Kenya,Eldoret,0.504525,35.28305,77.03,"{Solid,Organic}","{""Construction debris"",E-waste,""Food scraps""}",Medium,2024-07-30
+499,Bray-Wolfe,Hotel,Kenya,Eldoret,0.52476,35.271737,61.79,"{Solid,Liquid}","{""PET bottles"",Wastewater,E-waste}",Low,2025-03-09
+500,Norris-Smith,Retail,Nigeria,Kano,12.007024,8.581452,55.3,"{Solid,Liquid}","{Wastewater,E-waste,""Food scraps""}",Low,2024-08-27

@@ -1,0 +1,151 @@
+recycler_id,business_name,main_speciality,waste_types_accepted,capacity_kg_per_day,current_load_kg,country,city,gps_lat,gps_lng,certification_level,processing_efficiency
+1,Carpenter-Nguyen,Solid,"{""Construction debris"",""Food Scraps"",Textiles}",4556,591,Nigeria,Abuja,9.109914,7.438097,None,0.9
+2,"Hensley, Lopez and Baker",Solid,"{Textiles,""Food Scraps"",""PET Bottles""}",692,66,Nigeria,Abuja,9.102059,7.37886,None,0.79
+3,Ruiz-Austin,Organic,"{Wastewater,E-waste,""Food Scraps""}",3956,1464,Kenya,Mombasa,-4.010711,39.686254,Advanced,0.82
+4,White-Coleman,Others,"{Textiles,""Construction debris"",E-waste}",843,2781,Nigeria,Kano,11.990954,8.562801,Basic,0.98
+5,Haynes-Watson,Others,"{E-waste,Textiles,""Food Scraps""}",3962,2820,Nigeria,Kano,11.987329,8.567534,Advanced,0.88
+6,Ramirez-White,Others,"{""Food Scraps"",E-waste,Wastewater}",4954,377,Nigeria,Ibadan,7.427026,3.935037,None,0.77
+7,Krause Ltd,Others,"{""Food Scraps"",Wastewater,Textiles}",4196,887,Kenya,Nakuru,-0.315114,36.063763,Advanced,0.82
+8,Olsen Ltd,Organic,"{Textiles,E-waste,""Food Scraps""}",4612,742,Kenya,Mombasa,-4.034134,39.68573,Basic,0.78
+9,Brock-Peters,Organic,"{""Construction debris"",Textiles,E-waste}",1924,1850,Nigeria,Port Harcourt,4.830924,7.004715,Basic,0.95
+10,Gonzalez-Marsh,Solid,"{""Food Scraps"",""PET Bottles"",E-waste}",4483,1020,Kenya,Kisumu,-0.08159,34.760629,None,0.81
+11,"Hernandez, Shaffer and Thompson",Liquid,"{""Construction debris"",Textiles,E-waste}",2373,2923,Kenya,Nakuru,-0.348712,36.048293,Basic,0.93
+12,Taylor-Barry,Organic,"{E-waste,""Construction debris"",Wastewater}",4022,84,Kenya,Nairobi,-1.319946,36.780423,Advanced,0.85
+13,"Holmes, Le and Floyd",Liquid,"{E-waste,Textiles,""Construction debris""}",1048,266,Nigeria,Port Harcourt,4.776187,7.04721,None,0.78
+14,King-Garrison,Solid,"{""Food Scraps"",""Construction debris"",""PET Bottles""}",1207,2336,Nigeria,Ibadan,7.367695,3.988967,None,0.89
+15,Ross Ltd,Organic,"{""Construction debris"",""PET Bottles"",E-waste}",1449,2292,Nigeria,Port Harcourt,4.802886,7.026145,None,0.77
+16,Brown LLC,Organic,"{Wastewater,""Food Scraps"",Textiles}",1423,2148,Kenya,Kisumu,-0.128381,34.788103,Advanced,0.78
+17,Combs-Davis,Solid,"{E-waste,""PET Bottles"",Textiles}",4389,1959,Kenya,Kisumu,-0.053664,34.731662,Basic,0.76
+18,"Cook, Ward and Castro",Organic,"{""PET Bottles"",""Construction debris"",Textiles}",1057,1956,Kenya,Nakuru,-0.297796,36.092728,Advanced,0.99
+19,Cooper-Jenkins,Others,"{""Construction debris"",Wastewater,""PET Bottles""}",2650,1664,Kenya,Eldoret,0.486833,35.282474,None,0.92
+20,Dillon-Mccarty,Liquid,"{E-waste,""Construction debris"",""PET Bottles""}",1543,1963,Kenya,Kisumu,-0.063639,34.720723,Advanced,0.98
+21,Ray Ltd,Others,"{""Food Scraps"",E-waste,""Construction debris""}",3918,271,Nigeria,Abuja,9.050613,7.4007,Advanced,0.72
+22,"Ryan, Krause and Mitchell",Others,"{""Construction debris"",Wastewater,Textiles}",4885,2479,Kenya,Nairobi,-1.299437,36.80655,Basic,0.97
+23,Nunez-Freeman,Solid,"{E-waste,Wastewater,""Food Scraps""}",4511,1402,Nigeria,Port Harcourt,4.814333,7.075586,Advanced,0.85
+24,"Griffin, Miller and Austin",Liquid,"{Textiles,""Construction debris"",""PET Bottles""}",3064,1327,Kenya,Kisumu,-0.07879,34.811372,None,0.86
+25,Welch-Thomas,Others,"{Wastewater,""Construction debris"",E-waste}",2042,2511,Nigeria,Kano,11.971364,8.575456,None,0.93
+26,Davidson LLC,Liquid,"{""PET Bottles"",E-waste,""Construction debris""}",1460,2967,Nigeria,Abuja,9.095189,7.384723,Advanced,0.95
+27,Welch-Duncan,Liquid,"{""PET Bottles"",E-waste,Wastewater}",2512,1604,Kenya,Mombasa,-4.033664,39.68155,Basic,0.91
+28,Miller LLC,Organic,"{Wastewater,""Food Scraps"",E-waste}",3720,13,Nigeria,Port Harcourt,4.799694,7.025317,None,0.75
+29,Edwards Ltd,Liquid,"{Textiles,""Construction debris"",E-waste}",2131,1088,Nigeria,Ibadan,7.373038,3.996125,None,0.98
+30,Page-Jacobs,Liquid,"{""Food Scraps"",""PET Bottles"",Textiles}",1506,1480,Nigeria,Port Harcourt,4.776362,7.043561,None,0.71
+31,Nelson-Wallace,Solid,"{""Food Scraps"",E-waste,""PET Bottles""}",827,2704,Kenya,Kisumu,-0.130956,34.771478,Advanced,0.72
+32,Adkins-Meyer,Liquid,"{E-waste,""PET Bottles"",Textiles}",2305,2532,Kenya,Kisumu,-0.044018,34.789913,Advanced,0.87
+33,Gutierrez-White,Organic,"{Textiles,""Construction debris"",Wastewater}",2301,703,Nigeria,Port Harcourt,4.800909,7.02348,Basic,0.76
+34,Martinez and Sons,Liquid,"{E-waste,""Food Scraps"",Textiles}",2516,1664,Kenya,Mombasa,-4.084359,39.692252,None,0.77
+35,"King, Manning and Brady",Organic,"{""PET Bottles"",Wastewater,E-waste}",3667,1827,Kenya,Mombasa,-4.001714,39.646153,None,0.77
+36,Jackson Inc,Others,"{Textiles,E-waste,""Food Scraps""}",4934,1112,Kenya,Nakuru,-0.281856,36.074278,None,0.96
+37,Brown Group,Liquid,"{""Food Scraps"",E-waste,Textiles}",4122,2484,Nigeria,Ibadan,7.406521,3.949434,None,0.81
+38,"Brown, Wise and Warren",Solid,"{E-waste,""PET Bottles"",Textiles}",3074,1446,Kenya,Eldoret,0.554054,35.288108,Basic,0.78
+39,Garcia PLC,Organic,"{""Construction debris"",Textiles,""PET Bottles""}",1029,1852,Nigeria,Abuja,9.064423,7.436347,Advanced,0.93
+40,Miller Group,Others,"{E-waste,""Construction debris"",Textiles}",1232,1791,Nigeria,Port Harcourt,4.800072,7.037941,Basic,0.8
+41,Perez-Rojas,Solid,"{""PET Bottles"",""Construction debris"",Textiles}",797,1562,Nigeria,Kano,12.043339,8.567942,Basic,0.71
+42,Sims-Anderson,Organic,"{Wastewater,""Food Scraps"",""Construction debris""}",4211,610,Kenya,Nairobi,-1.265679,36.783098,Basic,0.74
+43,Johnson Ltd,Others,"{Wastewater,""PET Bottles"",""Food Scraps""}",2399,377,Nigeria,Kano,12.03928,8.560558,Advanced,0.72
+44,Dalton-Nguyen,Solid,"{""PET Bottles"",""Food Scraps"",""Construction debris""}",1131,275,Kenya,Kisumu,-0.086908,34.812158,None,0.78
+45,Mcdonald-Pitts,Liquid,"{""Construction debris"",""PET Bottles"",Textiles}",4871,765,Kenya,Eldoret,0.482774,35.266034,None,0.93
+46,Dunn-Taylor,Organic,"{Textiles,""Construction debris"",""Food Scraps""}",3726,552,Nigeria,Abuja,9.103114,7.399899,None,0.71
+47,"Ryan, Garza and Bryant",Liquid,"{Textiles,Wastewater,E-waste}",2513,1863,Kenya,Mombasa,-4.069284,39.679103,None,0.91
+48,"Fields, Elliott and Mills",Organic,"{E-waste,""PET Bottles"",""Food Scraps""}",2852,1887,Kenya,Mombasa,-4.029463,39.693657,Advanced,0.93
+49,"Ferguson, Stout and Olson",Others,"{""Construction debris"",Textiles,Wastewater}",3819,1029,Nigeria,Port Harcourt,4.819701,7.040234,Advanced,0.97
+50,Ballard Group,Organic,"{""PET Bottles"",""Food Scraps"",Wastewater}",2944,473,Kenya,Eldoret,0.556153,35.232404,Advanced,0.96
+51,Diaz-Green,Others,"{""PET Bottles"",""Food Scraps"",""Construction debris""}",4067,2615,Nigeria,Ibadan,7.357514,3.899428,None,0.83
+52,Smith-Mills,Solid,"{E-waste,Wastewater,""Construction debris""}",3770,1910,Kenya,Kisumu,-0.102066,34.732188,Advanced,0.83
+53,Cooper Group,Solid,"{""PET Bottles"",""Food Scraps"",Wastewater}",3564,217,Kenya,Nakuru,-0.340058,36.125987,Basic,0.83
+54,"Smith, Weeks and Arroyo",Others,"{""Food Scraps"",E-waste,""Construction debris""}",3387,1357,Nigeria,Ibadan,7.335374,3.926435,None,0.79
+55,Evans-Cannon,Liquid,"{""Food Scraps"",""Construction debris"",""PET Bottles""}",4768,1520,Kenya,Nairobi,-1.237179,36.781817,None,0.83
+56,Harper-Robles,Liquid,"{Wastewater,""Food Scraps"",Textiles}",4091,1996,Nigeria,Port Harcourt,4.811583,7.062021,Basic,0.92
+57,"Brooks, Jenkins and Castro",Organic,"{""PET Bottles"",E-waste,Wastewater}",4103,2996,Kenya,Eldoret,0.543226,35.276415,Advanced,0.88
+58,Wright-Espinoza,Others,"{Wastewater,E-waste,""PET Bottles""}",843,180,Kenya,Mombasa,-4.017266,39.637839,Basic,0.7
+59,"Price, Gray and Baker",Solid,"{E-waste,Textiles,Wastewater}",2225,2,Kenya,Mombasa,-4.051639,39.637572,None,0.75
+60,Garrett-Black,Solid,"{E-waste,""PET Bottles"",""Construction debris""}",1435,327,Kenya,Kisumu,-0.068978,34.796657,Advanced,0.83
+61,"Aguirre, Cohen and Mitchell",Others,"{Wastewater,Textiles,""Construction debris""}",3174,2157,Nigeria,Port Harcourt,4.838346,7.037056,None,0.89
+62,"Patel, Adams and Lopez",Organic,"{E-waste,""Construction debris"",Wastewater}",3188,2084,Nigeria,Port Harcourt,4.843384,7.024374,Basic,0.84
+63,White LLC,Liquid,"{""Food Scraps"",""PET Bottles"",Textiles}",2293,1018,Nigeria,Lagos,6.569589,3.35924,Basic,0.96
+64,Walsh PLC,Others,"{E-waste,Textiles,Wastewater}",2950,332,Kenya,Eldoret,0.520944,35.261045,None,0.75
+65,Nelson-Dean,Organic,"{E-waste,""Construction debris"",Textiles}",1761,1696,Nigeria,Lagos,6.551876,3.421818,Basic,0.98
+66,Flores and Sons,Others,"{E-waste,Textiles,""PET Bottles""}",3820,1761,Nigeria,Kano,11.964002,8.565524,None,0.78
+67,Booker Inc,Others,"{""Food Scraps"",""Construction debris"",Textiles}",1174,34,Kenya,Kisumu,-0.125783,34.75067,None,0.86
+68,Compton LLC,Solid,"{""Food Scraps"",""Construction debris"",E-waste}",1954,133,Nigeria,Lagos,6.567816,3.408565,None,0.78
+69,Martinez-Gonzales,Solid,"{Wastewater,""Construction debris"",""Food Scraps""}",819,2387,Nigeria,Kano,12.018785,8.550708,None,0.99
+70,Hall and Sons,Others,"{""Food Scraps"",Wastewater,Textiles}",4809,293,Kenya,Mombasa,-4.014523,39.707912,Advanced,0.78
+71,Snyder LLC,Organic,"{E-waste,Textiles,""PET Bottles""}",2824,131,Kenya,Nakuru,-0.292482,36.056023,Basic,0.95
+72,Collins-Lloyd,Liquid,"{Wastewater,E-waste,Textiles}",2426,1266,Kenya,Nakuru,-0.272072,36.0659,Advanced,0.79
+73,Ford-Moody,Organic,"{""Food Scraps"",Textiles,""Construction debris""}",1709,441,Kenya,Nakuru,-0.338227,36.045547,Basic,0.74
+74,Miller-Christensen,Solid,"{""Construction debris"",E-waste,Textiles}",3857,502,Kenya,Kisumu,-0.064665,34.786729,Advanced,0.89
+75,Brown Group,Liquid,"{""PET Bottles"",E-waste,""Construction debris""}",3326,270,Nigeria,Abuja,9.116038,7.414192,None,0.71
+76,Daniels and Sons,Others,"{""Construction debris"",Wastewater,E-waste}",1588,1339,Nigeria,Ibadan,7.346218,3.946802,Advanced,0.98
+77,Huang LLC,Solid,"{""Food Scraps"",""PET Bottles"",Wastewater}",3906,381,Nigeria,Kano,12.047986,8.617107,Basic,0.95
+78,Clayton-Martinez,Others,"{Wastewater,""PET Bottles"",Textiles}",3923,157,Nigeria,Abuja,9.030682,7.362608,None,0.88
+79,"Wright, Wise and Ramos",Others,"{Textiles,""PET Bottles"",""Construction debris""}",1710,1361,Nigeria,Port Harcourt,4.802856,7.000118,Advanced,0.89
+80,"Vang, Gonzalez and Moss",Solid,"{E-waste,""Food Scraps"",""Construction debris""}",4982,1188,Nigeria,Port Harcourt,4.804623,7.052718,Advanced,0.99
+81,Boyd and Sons,Organic,"{E-waste,""Construction debris"",Textiles}",2391,1290,Nigeria,Lagos,6.502828,3.330997,Advanced,0.76
+82,Price-Ali,Solid,"{""Construction debris"",Textiles,Wastewater}",3734,1086,Nigeria,Kano,12.04133,8.627172,None,0.85
+83,Moore-Chandler,Others,"{""Food Scraps"",E-waste,""Construction debris""}",1123,1120,Kenya,Mombasa,-3.998276,39.663131,Advanced,0.94
+84,"Pineda, Meyer and King",Liquid,"{Textiles,""Food Scraps"",E-waste}",2248,2187,Nigeria,Lagos,6.524554,3.424466,Advanced,0.86
+85,"Evans, Ward and Williams",Liquid,"{""PET Bottles"",Textiles,""Construction debris""}",616,2806,Kenya,Mombasa,-4.000914,39.657109,Basic,0.72
+86,"Robinson, Rodriguez and Chen",Liquid,"{""PET Bottles"",Wastewater,Textiles}",3904,662,Kenya,Nakuru,-0.35103,36.043013,Basic,0.76
+87,Smith-Bauer,Liquid,"{Textiles,""Construction debris"",""Food Scraps""}",1124,637,Kenya,Kisumu,-0.131942,34.81113,None,0.95
+88,"Wilson, Mccormick and Smith",Liquid,"{""PET Bottles"",""Food Scraps"",E-waste}",3265,497,Kenya,Mombasa,-4.086879,39.69524,Advanced,0.92
+89,Perkins Ltd,Liquid,"{""Food Scraps"",Wastewater,""Construction debris""}",3393,722,Nigeria,Port Harcourt,4.777764,7.066644,Basic,0.93
+90,Barker-Moore,Organic,"{""Food Scraps"",""PET Bottles"",Textiles}",3302,656,Nigeria,Lagos,6.565471,3.39124,Advanced,0.94
+91,Wright Group,Liquid,"{""Food Scraps"",Wastewater,E-waste}",4042,424,Kenya,Nakuru,-0.253988,36.105756,Advanced,0.93
+92,Parks LLC,Others,"{Textiles,""Food Scraps"",""PET Bottles""}",4549,2283,Nigeria,Abuja,9.043231,7.410682,Basic,0.81
+93,"Brown, Kelly and Moore",Solid,"{""Food Scraps"",Textiles,Wastewater}",640,2722,Nigeria,Abuja,9.116476,7.352212,Basic,0.89
+94,"Moody, Martinez and Hall",Organic,"{""PET Bottles"",""Food Scraps"",Textiles}",1612,1939,Nigeria,Lagos,6.571337,3.415407,Basic,0.86
+95,"Kramer, Sherman and Trujillo",Liquid,"{""PET Bottles"",Wastewater,E-waste}",2903,159,Nigeria,Lagos,6.536874,3.332454,None,0.72
+96,Quinn-Smith,Solid,"{Wastewater,""Construction debris"",E-waste}",1109,2174,Nigeria,Abuja,9.09607,7.430143,Basic,0.72
+97,Howard-Taylor,Liquid,"{Wastewater,""PET Bottles"",""Food Scraps""}",1625,2150,Nigeria,Kano,11.992866,8.544571,Advanced,0.87
+98,Washington Group,Liquid,"{Wastewater,""Food Scraps"",""PET Bottles""}",2239,2384,Kenya,Kisumu,-0.130365,34.81542,None,0.77
+99,"Phillips, Terry and Lopez",Organic,"{""Construction debris"",Textiles,Wastewater}",2937,411,Nigeria,Kano,12.036326,8.596977,Basic,0.92
+100,Stephens LLC,Liquid,"{Wastewater,""Food Scraps"",""PET Bottles""}",1063,386,Kenya,Kisumu,-0.049818,34.759973,Advanced,0.7
+101,"Mcdonald, Dillon and George",Organic,"{Wastewater,""PET Bottles"",Textiles}",1171,1368,Nigeria,Lagos,6.521301,3.365319,None,0.75
+102,"Martin, Schmidt and Cole",Solid,"{""PET Bottles"",Textiles,""Construction debris""}",3841,21,Kenya,Nairobi,-1.289357,36.840098,Advanced,0.85
+103,Weaver-Gibson,Solid,"{E-waste,Textiles,""PET Bottles""}",986,1760,Nigeria,Port Harcourt,4.84502,7.07747,None,0.88
+104,"Hunter, Gross and Andrade",Solid,"{E-waste,Textiles,""Construction debris""}",2856,1103,Nigeria,Abuja,9.108982,7.377845,None,0.88
+105,"Vincent, Parsons and Allen",Organic,"{""Food Scraps"",E-waste,""PET Bottles""}",2572,2831,Kenya,Nakuru,-0.327599,36.090551,None,0.87
+106,"Brown, Coffey and Fuentes",Solid,"{""Construction debris"",""Food Scraps"",Textiles}",3733,544,Kenya,Mombasa,-4.080232,39.622227,None,0.78
+107,Warren Group,Organic,"{""Construction debris"",""Food Scraps"",E-waste}",1376,1398,Kenya,Eldoret,0.470642,35.2408,None,0.83
+108,"Moore, Campbell and Ortiz",Others,"{E-waste,Textiles,Wastewater}",4132,2716,Kenya,Nairobi,-1.249509,36.799734,None,0.95
+109,Rodriguez-Mills,Solid,"{E-waste,""Construction debris"",Wastewater}",4083,200,Kenya,Mombasa,-4.054556,39.637006,Basic,0.7
+110,Williams and Sons,Organic,"{""Construction debris"",E-waste,Wastewater}",2169,1693,Nigeria,Abuja,9.032619,7.437468,None,0.96
+111,Russo and Sons,Organic,"{E-waste,Textiles,""Food Scraps""}",4222,1424,Kenya,Kisumu,-0.113769,34.760571,Basic,0.89
+112,Washington Inc,Others,"{E-waste,Wastewater,""PET Bottles""}",4435,903,Nigeria,Abuja,9.095322,7.376136,Basic,0.96
+113,Duncan Group,Solid,"{""Food Scraps"",Wastewater,Textiles}",4776,1043,Kenya,Mombasa,-4.028955,39.656664,Advanced,0.73
+114,"Burns, Hanson and Garza",Organic,"{""PET Bottles"",Wastewater,Textiles}",2501,2737,Nigeria,Ibadan,7.329592,3.953756,Advanced,0.95
+115,Diaz PLC,Organic,"{Wastewater,Textiles,E-waste}",3295,5,Kenya,Nakuru,-0.255354,36.030362,Basic,0.76
+116,"Jones, Conrad and Clark",Liquid,"{Textiles,""PET Bottles"",E-waste}",3423,393,Kenya,Kisumu,-0.069614,34.760441,Basic,0.84
+117,Hebert-Collier,Liquid,"{E-waste,""PET Bottles"",Wastewater}",4539,932,Kenya,Mombasa,-4.061005,39.703986,Basic,0.98
+118,Owen-Brown,Solid,"{E-waste,""Food Scraps"",""PET Bottles""}",4326,1689,Kenya,Nairobi,-1.32607,36.856816,Advanced,0.99
+119,"Paul, Zamora and Short",Others,"{""Construction debris"",""PET Bottles"",Textiles}",2257,894,Kenya,Nairobi,-1.268293,36.864816,Basic,0.73
+120,"Brown, Jensen and Rice",Liquid,"{""Construction debris"",Textiles,E-waste}",2212,382,Nigeria,Lagos,6.566199,3.37012,Basic,0.97
+121,"Jones, Torres and Blackburn",Solid,"{""Food Scraps"",E-waste,Wastewater}",4932,684,Kenya,Nairobi,-1.255847,36.846333,Advanced,0.92
+122,"Davis, Hardy and Schmidt",Others,"{Wastewater,""Food Scraps"",Textiles}",4626,2387,Kenya,Nakuru,-0.271392,36.051661,None,0.97
+123,Lee Ltd,Liquid,"{E-waste,Textiles,""PET Bottles""}",720,399,Nigeria,Lagos,6.51709,3.364102,Advanced,0.87
+124,Hudson and Sons,Organic,"{""Construction debris"",""PET Bottles"",Textiles}",2212,809,Nigeria,Abuja,9.043686,7.364269,None,0.79
+125,"Curry, Perry and Garcia",Organic,"{""Construction debris"",""PET Bottles"",Wastewater}",2954,2812,Kenya,Nakuru,-0.330536,36.043477,Basic,0.74
+126,"Ray, Craig and Park",Liquid,"{""Food Scraps"",Textiles,""PET Bottles""}",3943,444,Kenya,Mombasa,-4.046104,39.618968,None,0.92
+127,Andrade-Jackson,Solid,"{""Construction debris"",""PET Bottles"",Wastewater}",4761,2923,Kenya,Nairobi,-1.321015,36.778067,Advanced,0.96
+128,Pierce PLC,Solid,"{E-waste,""Construction debris"",""PET Bottles""}",4146,1143,Nigeria,Ibadan,7.343302,3.996762,Basic,0.78
+129,Sandoval-Ferguson,Others,"{""Food Scraps"",Textiles,""Construction debris""}",1538,220,Kenya,Nairobi,-1.316762,36.796776,None,0.91
+130,"Ramos, Gomez and Edwards",Solid,"{""Food Scraps"",Textiles,""PET Bottles""}",4915,949,Kenya,Eldoret,0.518292,35.310713,None,0.77
+131,Kirk-Gutierrez,Organic,"{""PET Bottles"",Textiles,""Food Scraps""}",3278,2150,Kenya,Eldoret,0.55619,35.274147,Advanced,0.73
+132,"Jordan, Swanson and Franklin",Organic,"{E-waste,""Construction debris"",""PET Bottles""}",1644,903,Nigeria,Kano,12.00707,8.624767,Advanced,0.88
+133,"Gardner, Brooks and Pierce",Organic,"{""Construction debris"",Wastewater,E-waste}",1848,2790,Kenya,Eldoret,0.514595,35.261992,Basic,0.99
+134,"King, Nixon and West",Organic,"{""Construction debris"",""Food Scraps"",Textiles}",1185,1320,Nigeria,Lagos,6.47769,3.330359,None,0.92
+135,Smith-Johnson,Organic,"{E-waste,Textiles,Wastewater}",968,2583,Kenya,Nairobi,-1.267593,36.815301,Advanced,0.98
+136,Larson-Holmes,Organic,"{Textiles,Wastewater,""Construction debris""}",2636,652,Kenya,Mombasa,-3.994637,39.64949,None,0.86
+137,Smith-Joyce,Liquid,"{E-waste,Textiles,""Food Scraps""}",1733,719,Kenya,Eldoret,0.537174,35.273781,Basic,0.85
+138,Foley Inc,Others,"{E-waste,""Food Scraps"",Textiles}",900,11,Kenya,Kisumu,-0.103757,34.721994,Advanced,0.78
+139,"Short, Ellison and Dixon",Liquid,"{""Construction debris"",Textiles,Wastewater}",4842,614,Kenya,Nakuru,-0.318564,36.064174,Basic,0.81
+140,"Howe, Moore and Johnson",Solid,"{Wastewater,""Construction debris"",""Food Scraps""}",3499,1270,Kenya,Mombasa,-4.05218,39.697976,None,0.93
+141,Moore-Baker,Others,"{""Food Scraps"",E-waste,""PET Bottles""}",2469,1680,Nigeria,Lagos,6.529633,3.333144,Advanced,0.95
+142,"Wright, Scott and Evans",Solid,"{""PET Bottles"",""Food Scraps"",Textiles}",2693,192,Nigeria,Port Harcourt,4.801062,7.099718,None,0.95
+143,"Ross, Hardin and Navarro",Organic,"{Wastewater,""Construction debris"",""PET Bottles""}",4984,1940,Nigeria,Port Harcourt,4.77798,7.055423,Basic,0.96
+144,"Nguyen, Olson and Freeman",Solid,"{Textiles,""Food Scraps"",E-waste}",2693,992,Kenya,Eldoret,0.489746,35.291598,None,0.9
+145,"Warner, Weiss and Davis",Solid,"{Textiles,""Construction debris"",Wastewater}",3839,1218,Kenya,Nakuru,-0.291192,36.05954,None,0.71
+146,"Evans, Cross and Johnston",Others,"{""PET Bottles"",""Food Scraps"",Wastewater}",2563,336,Nigeria,Abuja,9.063305,7.421097,Basic,0.95
+147,Deleon LLC,Solid,"{Wastewater,""Construction debris"",Textiles}",846,764,Nigeria,Kano,12.046724,8.605119,Basic,0.93
+148,Hobbs-Hamilton,Solid,"{""Construction debris"",""Food Scraps"",Textiles}",4348,1545,Nigeria,Kano,12.006526,8.560652,Basic,0.82
+149,Kane and Sons,Organic,"{""PET Bottles"",""Food Scraps"",Wastewater}",2477,2277,Nigeria,Kano,12.003477,8.637953,Advanced,0.85
+150,"Delgado, Guzman and Smith",Others,"{Textiles,""Food Scraps"",Wastewater}",807,1186,Kenya,Kisumu,-0.108547,34.815204,Advanced,0.89
