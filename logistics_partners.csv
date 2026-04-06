@@ -1,0 +1,121 @@
+partner_id,company_name,vehicle_type,max_load_kg,country,city,gps_lat,gps_lng,specialization,driver_rating,availability_status,cost_per_km,cost_per_load
+1,"Reyes, Torres and Williams",Tricycle,550,Nigeria,Abuja,9.046943,7.370187,Solid,4.7,Busy,1.97,179.0
+2,"Cunningham, Murphy and Wolfe",Truck,863,Nigeria,Abuja,9.107149,7.429169,Others,4.3,Available,1.86,129.2
+3,Williams Ltd,Motorcycle,1715,Kenya,Eldoret,0.479502,35.287658,Solid,4.1,Busy,3.0,27.1
+4,Maddox-Mullins,Van,2100,Kenya,Nairobi,-1.240768,36.859036,Others,4.6,Busy,2.98,37.2
+5,"Wagner, Walker and Roberts",Truck,487,Nigeria,Port Harcourt,4.837583,7.052291,Solid,3.8,Available,2.99,25.3
+6,Hernandez-Rogers,Van,2087,Nigeria,Ibadan,7.338763,3.909831,Organic,3.9,Busy,1.33,134.6
+7,Duncan-Williams,Tunker,1466,Nigeria,Kano,12.034483,8.601563,Organic,4.8,Available,1.48,129.8
+8,Baker-Ross,Tricycle,2005,Kenya,Nairobi,-1.328764,36.827592,Liquid,3.7,Busy,1.06,91.5
+9,Ayala-Anderson,Motorcycle,2121,Nigeria,Lagos,6.533035,3.404858,Solid,4.7,Available,2.85,129.2
+10,Castillo and Sons,TukTuk,1254,Kenya,Nairobi,-1.312375,36.794725,Organic,3.6,Available,2.24,174.3
+11,Foster-Duncan,Truck,1805,Kenya,Eldoret,0.523971,35.313847,Organic,4.7,Busy,1.09,188.4
+12,"Gilbert, Fitzgerald and Sanchez",Tunker,276,Nigeria,Lagos,6.526313,3.338805,Others,4.7,Available,2.85,189.9
+13,Adams Group,Truck,921,Kenya,Kisumu,-0.102643,34.80641,Others,3.7,Busy,0.68,189.3
+14,Cohen-Johnston,TukTuk,2615,Kenya,Mombasa,-4.016718,39.643609,Organic,4.7,Available,1.59,39.6
+15,Powers Group,Pickup,524,Nigeria,Ibadan,7.403867,3.961455,Solid,5.0,Busy,1.23,193.4
+16,Bailey-Flores,Van,2303,Kenya,Kisumu,-0.052066,34.718452,Solid,4.0,Available,1.69,140.1
+17,"Rios, Carrillo and Jackson",TukTuk,2530,Kenya,Nakuru,-0.348487,36.0534,Organic,3.6,Busy,1.63,144.9
+18,Jensen-Branch,Tunker,1905,Kenya,Eldoret,0.507184,35.276226,Liquid,3.9,Available,2.84,148.6
+19,Hanson-Alexander,Van,2313,Nigeria,Port Harcourt,4.846286,7.04013,Others,4.6,Busy,2.67,138.2
+20,Gonzalez LLC,Van,1255,Nigeria,Lagos,6.563294,3.358761,Others,4.5,Available,0.87,121.8
+21,Todd Inc,Tricycle,963,Kenya,Eldoret,0.559094,35.276728,Solid,4.8,Available,0.96,160.5
+22,Singh and Sons,Van,1680,Nigeria,Abuja,9.104106,7.391561,Organic,4.1,Available,2.98,105.1
+23,"Mcintosh, Melton and Wilkins",Truck,984,Kenya,Nakuru,-0.27672,36.127259,Others,3.8,Available,1.27,189.7
+24,Cooper Inc,TukTuk,121,Kenya,Kisumu,-0.074687,34.778196,Solid,4.8,Available,2.14,121.0
+25,Cole-Johnson,Tunker,653,Nigeria,Lagos,6.564104,3.425208,Solid,4.9,Busy,1.35,118.9
+26,Singh and Sons,Pickup,2631,Nigeria,Port Harcourt,4.841865,7.054294,Liquid,3.6,Busy,1.93,82.0
+27,Payne LLC,Motorcycle,542,Kenya,Mombasa,-4.091984,39.666399,Solid,4.6,Busy,1.93,196.5
+28,"Webb, Blair and Thomas",Pickup,170,Nigeria,Abuja,9.104201,7.388441,Liquid,4.8,Busy,2.07,27.3
+29,"Barnett, Bennett and Escobar",Tunker,1635,Kenya,Nakuru,-0.277866,36.030123,Others,4.4,Busy,0.66,29.9
+30,"Williams, Jackson and Campbell",Van,2705,Kenya,Nairobi,-1.328268,36.786556,Organic,3.6,Available,1.44,30.1
+31,"Williamson, Brown and Pena",Tricycle,2435,Nigeria,Lagos,6.503682,3.389859,Organic,4.2,Available,2.66,113.9
+32,Jones Ltd,TukTuk,1650,Nigeria,Ibadan,7.39026,3.90207,Liquid,3.9,Busy,1.6,127.8
+33,Alvarado-Durham,Pickup,427,Kenya,Nairobi,-1.264957,36.812126,Others,4.5,Available,1.36,120.0
+34,Lin-Smith,Pickup,2813,Nigeria,Ibadan,7.419845,3.989349,Organic,4.7,Busy,0.56,188.6
+35,"Hughes, Whitney and Romero",Motorcycle,879,Nigeria,Lagos,6.571409,3.34905,Organic,4.9,Busy,1.39,187.5
+36,"Garcia, Stewart and Delacruz",Truck,719,Nigeria,Ibadan,7.338433,3.951509,Organic,3.8,Available,2.2,34.1
+37,"Miller, Gonzalez and Rasmussen",Pickup,1590,Kenya,Nakuru,-0.341837,36.105059,Liquid,3.7,Busy,1.87,195.8
+38,"House, Smith and Wright",Tunker,2420,Kenya,Mombasa,-4.071652,39.62564,Liquid,4.0,Available,2.31,50.4
+39,"Torres, Burns and Garner",Van,889,Nigeria,Lagos,6.488464,3.368765,Organic,4.1,Busy,2.99,62.6
+40,Reed LLC,Pickup,711,Nigeria,Lagos,6.514215,3.382624,Others,4.5,Available,2.79,33.5
+41,Garrett-Young,Tricycle,752,Kenya,Nakuru,-0.263672,36.088924,Organic,4.4,Busy,1.8,195.3
+42,"Hill, Brown and Scott",Motorcycle,520,Nigeria,Ibadan,7.406001,3.965718,Others,4.8,Available,2.69,117.1
+43,Zamora-Briggs,Truck,2928,Kenya,Eldoret,0.538513,35.251624,Solid,4.4,Busy,2.9,24.1
+44,Raymond LLC,Motorcycle,650,Nigeria,Ibadan,7.395637,3.996487,Organic,4.1,Busy,1.09,92.9
+45,Hernandez Group,Pickup,1661,Kenya,Kisumu,-0.065248,34.755568,Solid,3.8,Busy,1.32,48.7
+46,"Taylor, Blair and Meyer",Motorcycle,763,Nigeria,Lagos,6.552108,3.383113,Liquid,4.1,Available,2.33,114.1
+47,"Salazar, Garrett and Perez",Motorcycle,2269,Kenya,Eldoret,0.484234,35.276567,Organic,4.3,Busy,1.09,132.2
+48,Berry Group,Pickup,2995,Nigeria,Port Harcourt,4.852362,7.095153,Liquid,4.7,Available,2.16,117.6
+49,Browning-Murphy,TukTuk,1900,Nigeria,Port Harcourt,4.862461,7.064681,Liquid,4.8,Available,2.12,71.0
+50,"Anderson, Delgado and Carpenter",TukTuk,2258,Nigeria,Lagos,6.543907,3.373347,Solid,4.8,Busy,1.62,106.0
+51,"Mcbride, Huffman and Parker",Motorcycle,1624,Kenya,Nairobi,-1.242999,36.812424,Organic,4.6,Busy,1.74,115.8
+52,"Roach, Browning and Jordan",Motorcycle,2073,Kenya,Eldoret,0.527819,35.263426,Solid,4.8,Available,1.3,123.8
+53,Douglas PLC,Motorcycle,172,Kenya,Eldoret,0.502185,35.272219,Solid,4.5,Available,1.42,145.2
+54,Stewart PLC,Tunker,770,Nigeria,Ibadan,7.365656,3.958994,Organic,3.5,Available,0.92,182.0
+55,"Fry, Wilson and Stewart",Van,2554,Nigeria,Kano,11.979011,8.560212,Others,4.4,Available,0.85,168.8
+56,Acosta LLC,Pickup,2395,Nigeria,Abuja,9.090309,7.411969,Liquid,4.7,Available,2.67,55.0
+57,Ali-Turner,Tunker,778,Kenya,Kisumu,-0.101212,34.744029,Liquid,3.8,Busy,2.31,187.8
+58,"Peck, Shannon and Mahoney",Motorcycle,2861,Nigeria,Ibadan,7.34433,3.954584,Solid,4.8,Available,1.36,129.4
+59,Hernandez-Lopez,Van,1126,Nigeria,Lagos,6.496734,3.428349,Others,4.1,Available,2.88,108.1
+60,Lopez PLC,Tricycle,2602,Nigeria,Port Harcourt,4.797992,7.060832,Liquid,4.7,Available,0.52,75.2
+61,"Adams, Bradley and Hall",Tricycle,2936,Kenya,Eldoret,0.552793,35.227231,Others,4.4,Available,0.62,113.9
+62,Hall Inc,Truck,1388,Nigeria,Port Harcourt,4.789156,7.079189,Solid,4.1,Available,1.31,101.7
+63,Miller-Chan,TukTuk,448,Nigeria,Abuja,9.037201,7.421467,Solid,4.7,Busy,2.32,191.1
+64,Shaw PLC,Truck,496,Kenya,Nakuru,-0.308366,36.061757,Liquid,4.9,Available,2.24,135.8
+65,Joseph-Brooks,Motorcycle,589,Nigeria,Lagos,6.477898,3.364592,Organic,4.5,Busy,1.9,128.9
+66,Henry-Taylor,Tricycle,1803,Nigeria,Lagos,6.501547,3.342184,Liquid,4.1,Available,2.84,120.3
+67,Perez Group,Van,736,Nigeria,Lagos,6.569934,3.415609,Others,4.7,Busy,1.85,70.3
+68,Schaefer Group,Tunker,1539,Kenya,Nakuru,-0.282489,36.081046,Liquid,4.3,Busy,2.33,96.0
+69,Newton and Sons,TukTuk,75,Nigeria,Port Harcourt,4.794357,7.050047,Organic,5.0,Busy,2.96,24.6
+70,Jones Group,Tunker,524,Kenya,Nairobi,-1.320795,36.797907,Solid,3.6,Available,0.83,177.9
+71,"Burns, Nguyen and Ellis",TukTuk,461,Nigeria,Kano,11.959103,8.542513,Organic,4.3,Busy,1.89,52.8
+72,Patterson Inc,Van,2877,Nigeria,Kano,11.980615,8.593937,Others,4.4,Busy,0.86,193.4
+73,"Moss, James and Edwards",Motorcycle,2160,Kenya,Nakuru,-0.308199,36.093757,Liquid,4.5,Available,2.37,43.4
+74,"Crosby, Armstrong and Herrera",Truck,483,Kenya,Kisumu,-0.112911,34.812926,Solid,4.7,Available,2.27,165.4
+75,"Liu, Buchanan and Meyer",Van,418,Kenya,Mombasa,-4.009843,39.630836,Organic,4.4,Available,0.65,152.9
+76,Bryant-Rich,Tunker,2942,Kenya,Nakuru,-0.32686,36.04604,Others,4.0,Available,2.42,92.7
+77,Stone Group,TukTuk,605,Kenya,Nakuru,-0.335405,36.048092,Others,4.0,Busy,1.91,67.8
+78,"Williams, Hughes and Hubbard",TukTuk,1037,Nigeria,Abuja,9.112753,7.442788,Organic,4.3,Busy,1.46,138.4
+79,Lee Group,Tunker,862,Kenya,Nakuru,-0.347789,36.116928,Organic,4.5,Available,0.66,143.7
+80,Wilkerson-Ayala,Pickup,2568,Nigeria,Abuja,9.119058,7.414114,Liquid,3.8,Available,1.94,122.0
+81,Murray-Henderson,Tunker,2305,Kenya,Nakuru,-0.264943,36.125559,Liquid,4.5,Available,2.1,62.5
+82,"Ellison, Vaughn and Mckee",TukTuk,1142,Kenya,Mombasa,-4.003806,39.650716,Solid,4.7,Available,1.3,189.1
+83,Gallegos-Hayes,Tunker,2388,Nigeria,Lagos,6.523289,3.393667,Solid,3.7,Busy,1.22,189.5
+84,"Mason, White and Richards",Tricycle,2434,Nigeria,Kano,12.038722,8.599717,Organic,3.8,Busy,2.01,172.6
+85,"Payne, Long and Morris",Truck,2994,Nigeria,Lagos,6.493058,3.346639,Organic,4.0,Busy,2.4,183.9
+86,White PLC,TukTuk,453,Kenya,Mombasa,-4.044444,39.707744,Solid,3.7,Available,2.53,155.5
+87,"Huang, Khan and Davis",Tricycle,2534,Kenya,Kisumu,-0.101989,34.797015,Solid,3.8,Available,1.16,119.8
+88,Holt-Meadows,Motorcycle,1019,Nigeria,Port Harcourt,4.8159,7.086206,Solid,4.5,Busy,2.17,84.3
+89,Higgins Inc,Tricycle,385,Nigeria,Lagos,6.554248,3.421461,Solid,3.5,Busy,1.09,89.8
+90,Wilson Group,Tricycle,2414,Nigeria,Lagos,6.5204,3.363895,Solid,4.8,Available,0.56,46.9
+91,"Cox, Mills and Cruz",Truck,70,Kenya,Eldoret,0.545288,35.286181,Solid,4.2,Available,0.64,168.2
+92,"Salazar, Moore and Pierce",Motorcycle,523,Nigeria,Ibadan,7.335827,3.965717,Organic,3.7,Available,2.08,151.7
+93,Tate LLC,Tunker,2808,Kenya,Mombasa,-4.081669,39.686885,Others,4.2,Available,0.63,129.1
+94,"Savage, Huffman and Martin",Pickup,2760,Kenya,Nairobi,-1.325118,36.807493,Organic,3.7,Available,1.62,150.1
+95,White Ltd,Tunker,2246,Nigeria,Abuja,9.046274,7.410871,Organic,3.9,Available,1.58,80.7
+96,Barnes LLC,Tricycle,143,Kenya,Mombasa,-4.047943,39.705893,Organic,3.7,Busy,0.94,36.2
+97,"Mack, Griffin and Sims",Truck,120,Nigeria,Port Harcourt,4.779615,7.03356,Liquid,5.0,Available,1.99,87.6
+98,Roach and Sons,Motorcycle,1464,Kenya,Kisumu,-0.042245,34.752954,Organic,4.7,Available,2.29,122.4
+99,Dean LLC,Truck,2301,Kenya,Eldoret,0.520016,35.221489,Others,3.7,Busy,0.98,188.3
+100,Ellis Group,Pickup,155,Nigeria,Port Harcourt,4.802223,7.030539,Organic,3.9,Available,2.72,160.1
+101,"Aguirre, Franklin and Snyder",TukTuk,2587,Kenya,Nakuru,-0.26008,36.072271,Solid,4.2,Busy,1.19,49.9
+102,Chapman Group,Motorcycle,2712,Kenya,Nakuru,-0.281215,36.126424,Organic,4.1,Available,0.82,70.7
+103,Ortiz-Miller,Pickup,119,Kenya,Kisumu,-0.109758,34.813247,Organic,3.8,Busy,0.58,30.6
+104,"Smith, Khan and Ramirez",Tricycle,2467,Nigeria,Ibadan,7.423221,3.953483,Others,4.1,Busy,2.06,86.8
+105,"Grant, Bryan and Williams",Pickup,1828,Nigeria,Kano,11.980683,8.626307,Others,4.8,Available,2.59,65.2
+106,Brown LLC,Truck,1739,Kenya,Nairobi,-1.331977,36.773163,Organic,3.6,Available,2.52,152.6
+107,Thomas Inc,Truck,2795,Kenya,Nairobi,-1.291456,36.79484,Solid,4.1,Available,1.86,113.0
+108,"Lane, Morrison and Rivera",Tricycle,223,Nigeria,Ibadan,7.338302,3.956315,Organic,5.0,Available,1.66,55.2
+109,Williams Group,Tunker,2223,Nigeria,Ibadan,7.337729,3.902428,Liquid,3.6,Available,2.53,71.8
+110,Martin LLC,Pickup,2213,Nigeria,Ibadan,7.357586,3.977143,Solid,3.5,Busy,0.95,115.7
+111,"Guerrero, Graves and Armstrong",TukTuk,870,Nigeria,Ibadan,7.370153,3.939988,Organic,3.8,Available,1.33,200.0
+112,"Thompson, Gibson and Riley",Motorcycle,2446,Nigeria,Abuja,9.108738,7.44052,Others,4.8,Busy,2.56,34.2
+113,Davis LLC,Tricycle,1322,Kenya,Eldoret,0.494415,35.233602,Organic,3.5,Busy,1.51,96.6
+114,Richardson-Gray,Truck,130,Nigeria,Port Harcourt,4.768047,7.006625,Others,4.4,Busy,0.81,65.4
+115,Chang PLC,Van,319,Nigeria,Port Harcourt,4.789149,7.076671,Liquid,4.4,Busy,1.12,199.5
+116,Carter and Sons,Van,2532,Nigeria,Abuja,9.030709,7.40963,Liquid,4.5,Busy,2.82,91.1
+117,Neal LLC,Van,468,Nigeria,Abuja,9.091282,7.36844,Organic,4.7,Busy,2.01,155.0
+118,Rose-Warren,Motorcycle,1370,Nigeria,Ibadan,7.423107,3.911884,Organic,4.2,Busy,1.12,169.6
+119,"Clark, Brown and Duncan",Van,110,Nigeria,Abuja,9.047573,7.417462,Liquid,4.4,Available,2.99,100.3
+120,"Rice, Miller and Ramsey",Tunker,2264,Kenya,Kisumu,-0.125188,34.761035,Organic,3.8,Available,1.79,167.6

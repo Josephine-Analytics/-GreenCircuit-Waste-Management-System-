@@ -1,0 +1,6 @@
+waste_category,toxicity_level,recommended_handling
+Organic,Low,Store in sealed containers; avoid pests; compost or send to recycler promptly.
+Plastic,Low,Rinse to remove contaminants; store dry; bundle for recycling.
+Liquid,High,Use chemical-resistant PPE; store in corrosion-proof containers; keep away from drains.
+Hazardous,High,Follow hazardous waste protocols; isolate storage; ensure certified transporter pickup.
+Any,Medium,Wear gloves; avoid direct contact; store securely until pickup.
