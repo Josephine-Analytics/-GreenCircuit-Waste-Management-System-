@@ -216,4 +216,4 @@ Add anomaly detection for illegal dumping
 
 Deploy the ML model as an API
 
-3. 
+Model files are excluded due to size.
